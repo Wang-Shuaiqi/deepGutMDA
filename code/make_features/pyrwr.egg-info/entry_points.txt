@@ -1,0 +1,3 @@
+[console_scripts]
+pyrwr = pyrwr.__main__:main
+
