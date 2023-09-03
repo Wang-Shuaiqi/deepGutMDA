@@ -1,0 +1,807 @@
+microbe_id	microbe_tax_id	microbe_name	microbe_tax_level	genus_id	genus_name	family_id	family_name	superking_id	superking_name	if_probiotic	probiotic_use_species	probiotic_research_stage	if_has_abundance							
+PMDBM107	n.a.	Bifidobacterium	ruminatum	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM108	41200	Bifidobacterium	sp.	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Human	Clinical	trial	No					
+PMDBM109	n.a.	Bifidobacterium	spp.	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM113	1532	Blautia	coccoides	Species	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM115	649762	Blautia	luti	DSM14534	Strain	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM116	40520	Blautia	obeum	Species	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM118	n.a.	Blautia	spp.	Species	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM120	80840	Burkholderiales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM124	831	Butyrivibrio	fibrisolvens	Species	830	Butyrivibrio	186803	Lachnospiraceae	2	Bacteria	Yes	Human	Research	No						
+PMDBM125	43305	Butyrivibrio	proteoclasticus	Species	830	Butyrivibrio	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM126	28121	Butyrivibrio	sp.	Species	830	Butyrivibrio	186803	Lachnospiraceae	2	Bacteria	Yes	Animal	Research	No						
+PMDBM130	n.a.	Chaetomium	spp.	Species	5149	Chaetomium	35718	Chaetomiaceae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM131	990719	Christensenellaceae	Family	n.a.	n.a.	990719	Christensenellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM132	35703	Citrobacter	amalonaticus	Species	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM133	67824	Citrobacter	farmeri	Species	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM135	508459	Cloacibacillus	n.a.	n.a.	n.a.	649777	Synergistaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM136	186801	Clostridia	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM137	186802	Clostridiales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM139	n.a.	Clostridiales	unclassified	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM14	135622	Alteromonadales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM140	1496	Clostridioides	difficile	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM143	208479	Enterocloster	bolteae	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM146	358743	Enterocloster	citroniae	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM15	78352	anaerobic	bacterium	'strain	7'	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM156	84030	Lacrimispora	saccharolytica	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM159	n.a.	Clostridium	sp.	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	Yes	Animal	Research	No						
+PMDBM160	n.a.	Clostridium	sp.	HGH	136	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM17	2086	Anaeroplasma	n.a.	n.a.	n.a.	186333	Anaeroplasmataceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM173	84107	Coriobacteriaceae	Family	n.a.	n.a.	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM174	84999	Coriobacteriales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM177	191394	Deferribacteraceae	Family	n.a.	n.a.	191394	Deferribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM18	n.a.	Anaerostipes	sp.	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM188	1929886	Eggerthella	sp.	Species	84111	Eggerthella	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM189	n.a.	Eggerthella	sp.	Julong732	Species	84111	Eggerthella	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM190	1432052	Eisenbergiella	tayi	Species	1432051	Eisenbergiella	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM194	543	Enterobacteriaceae	Family	n.a.	n.a.	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM195	n.a.	Enterobacteriales	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM203	1547	Erysipelatoclostridium	ramosum	Species	1505663	Erysipelatoclostridium	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM204	128827	Erysipelotrichaceae	Family	n.a.	n.a.	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM206	526525	Erysipelotrichales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM207	526524	Erysipelotrichia	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM215	n.a.	Escherichia	sp.	Species	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM217	n.a.	Eubacterium	A-44	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM226	n.a.	Eubacterium	sp.	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM227	n.a.	Eubacterium	sp.	GLH	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM228	n.a.	Eubacterium	spp.	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM229	n.a.	Eubacterium	spp.	SDG-2	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM231	n.a.	Eubacterium	YK-4	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM234	n.a.	Faecalibacterium	spp.	Species	216851	Faecalibacterium	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM235	n.a.	Feptostreptoccous	YK-10	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM237	204430	Fibrobacteria	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM239	1239	Firmicutes	Phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM24	n.a.	Atopobium	spp.	Species	1380	Atopobium	1643824	Atopobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM240	n.a.	Firmicutes/Bacteroidetes	ratio	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM242	32066	Fusobacteria	Phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM243	n.a.	Fusobacterium	K-60	Species	848	Fusobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM246	1236	Gammaproteobacteria	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM248	204475	Gemmiger	Genus	204475	Gemmiger	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM25	91061	Bacilli	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM251	n.a.	Gordonibacter	urolithinfaciens	sp.	nov	Species	644652	Gordonibacter	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM252	n.a.	Gram-negative	bacterium	B1G-1A	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM254	2049029	Holdemania	sp.	Species	n.a.	n.a.	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM260	576	Klebsiella	sp.	Species	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM261	577	Raoultella	terrigena	Species	160674	Raoultella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM263	186803	Lachnospiraceae	Family	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM264	n.a.	Lachnospiraceae	incertae	sedis	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM265	n.a.	Lachnospiraceae	unclassified	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM266	29370	Lacrimispora	sphenoides	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM267	186826	Lactobacillales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM27	n.a.	Bacterium	DZY-HS11	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM275	n.a.	Lactobacillus	L-2	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM278	1597	Lactobacillus	paracasei	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Human	Marketed	No						
+PMDBM28	815	Bacteroidaceae	Family	n.a.	n.a.	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM283	1591	Lactobacillus	sp.	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Research	No						
+PMDBM284	n.a.	Lactobacillus	spp.	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM287	341220	Lactonifactor	longoviformis	Species	n.a.	n.a.	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM289	1643	Listeria	welshimeri	Species	1637	Listeria	186820	Listeriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM29	171549	Bacteroidales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM293	31969	Mollicutes	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM294	46225	Moraxella	Subgenus	475	Moraxella	468	Moraxellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM296	437755	Moryella	Genus	437755	Moryella	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM297	248038	Mucispirillum	n.a.	n.a.	n.a.	191394	Deferribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM3	1760	Actinobacteria	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM30	n.a.	Bacteroidales	unclassified	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM301	182709	Oceanobacillus	Genus	182709	Oceanobacillus	186817	Bacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM306	1945593	Oscillibacter	sp.	Species	459786	Oscillibacter	216572	Oscillospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM307	119852	Oscillospira	Genus	119852	Oscillospira	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM317	186804	Peptostreptococcaceae	Family	n.a.	n.a.	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM319	n.a.	Peptostreptococcus	intermedius	EBF	77/25	Species	1257	Peptostreptococcus	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM32	85831	Bacteroides	acidifaciens	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM320	n.a.	Peptostreptococcus	spp.	SDG-1	Species	1257	Peptostreptococcus	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM321	n.a.	Phascolarctobacter	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No							
+PMDBM323	203683	Planctomycetia	Class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM325	171551	Porphyromonadaceae	Family	n.a.	n.a.	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM327	537011	Pretovella	copri	DSM18205	Strain	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM332	n.a.	Prevotella	pneumophila	Species	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM334	171552	Prevotellaceae	Family	n.a.	n.a.	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM335	n.a.	Prevotellaceae_NK3B31_group	n.a.	n.a.	n.a.	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM336	31957	Propionibacteriaceae	Family	n.a.	n.a.	31957	Propionibacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM337	1224	Proteobacteria	Phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM338	n.a.	Proteus	mirabillis	S2	Species	583	Proteus	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM343	46205	Pseudobutyrivibrio	Genus	46205	Pseudobutyrivibrio	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM344	n.a.	Pseudocera	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM345	135621	Pseudomonadaceae	Family	n.a.	n.a.	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM348	294	Pseudomonas	fluorescens	Species	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	Yes	Animal	Field	trial	(Animal)	No				
+PMDBM351	171550	Rikenellaceae	Family	n.a.	n.a.	171550	Rikenellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM352	n.a.	Rosburia	ssp,	S24-7	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM357	541000	Ruminococcaceae	Family	n.a.	n.a.	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM358	n.a.	Ruminococcaceae	unclassified	Species	n.a.	n.a.	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM367	41978	Ruminococcus	sp.	Species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM368	n.a.	Ruminococcus	spp.	P01-3	Species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM372	n.a.	Salmonella	spp.	Species	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM374	99287	Salmonella	typhimurium	LT2	Strain	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM375	n.a.	SCFA-producing	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM376	n.a.	Segmented	filamentous	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM379	498718	Slackia	equolifaciens	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM380	572010	Slackia	isoflavoniconvertens	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM384	1300	Streptococcaceae	Family	n.a.	n.a.	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM390	n.a.	Streptococcus	S-2	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM393	211046	Styrax	aureus	Species	13699	Styrax	20008	Styracaceae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM396	n.a.	Sulfite-reducing	bacterium	LF11mE1	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM398	1981025	Sutterella	sp.	Species	40544	Sutterella	995019	Sutterellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM400	n.a.	Unidentified	anaerobic	bacterium	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM401	n.a.	Unidentified	gut	microbes	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM402	n.a.	Unidentified	oral	microbes	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM403	n.a.	Unidentified	probiotic	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM404	n.a.	Unidentified	vaginal	microbes	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM407	74201	Verrucomicrobia	Phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM409	172900	Victivallis	Genus	172900	Victivallis	255528	Victivallaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM410	340101	Victivallis	vadensis	ATCC	BAA-548	Strain	172900	Victivallis	255528	Victivallaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM502	n.a.	Bifidobacterium	infantis	NRRL	B-41661	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM503	n.a.	Clostridiales	spp.	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM504	n.a.	Enterococcus	spp.	Species	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM505	n.a.	Eubacterium	rectale−C.	coccoides	group	n.a.	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM507	n.a.	Lactobacillus	bulgaricus	LBY-27	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM512	n.a.	Nocardioides	spp.	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM513	n.a.	Paenibacillus	spp.	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM514	n.a.	Acinobacter	spp.	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM515	n.a.	Bacillus	spp.	Species	55087	Bacillus	55086	Bacillidae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM516	n.a.	Bacteroidaceae/Bifidobacteriaceae	ratio	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM518	n.a.	Bacteroides−Prevotella	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM519	n.a.	Bacteroides−Prevotella	spp.	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM523	n.a.	Blautia	coccoides−Eubacterium	rectale	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM524	n.a.	Clostridium	histolyticum	group	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM525	n.a.	Cytophaga-Flexibacter	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No							
+PMDBM526	n.a.	Enterobacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM527	n.a.	Lactic	acid	producing	bacteria	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM528	n.a.	Pseudof	lavonifractor	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM529	n.a.	S24-7	(Bacteroidetes)	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM530	n.a.	Sulfate-reducing	bacteria	Species	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM55	n.a.	Bacteroides	J-37	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM56	n.a.	Bacteroides	JY-6	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM60	29523	Bacteroides	sp.	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM63	n.a.	Bacteroides	spp.	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM77	311784	Bacteroides	WH2	WH2	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM80	976	Bacteroidetes	Phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM81	n.a.	Bacteroidetes/Firmicutes	ratio	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM85	31953	Bifidobacteriaceae	Family	n.a.	n.a.	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM86	85004	Bifidobacteriales	Order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM92	n.a.	Bifidobacterium	B-9	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM99	n.a.	Bifidobacterium	K-506	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM600	434	Acetobacter	genus	434	Acetobacter	433	Acetobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM601	1287736	Achromobacter	aegrifaciens	Species	222	Achromobacter	506	Alcaligenaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM602	204432	Acidobacteria	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM603	12916	Acidovorax	genus	12916	Acidovorax	80864	Comamonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM604	980514	Acinetobacter	baumannii	TCDC-AB0715	Strain	469	Acinetobacter	468	Moraxellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM605	707232	Acinetobacter	haemolyticus	ATCC	19194	Strain	469	Acinetobacter	468	Moraxellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM606	n.a.	Actinobacteria	cluster	ACK	M1	Strain	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM607	1654	Actinomyces	genus	1654	Actinomyces	2049	Actinomycetaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM608	525245	Actinomyces	coleocanis	DSM	15436	Strain	n.a.	n.a.	2049	Actinomycetaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM609	762963	Actinomyces	sp.	oral	taxon	170	str.	F0386	Strain	1654	Actinomyces	2049	Actinomycetaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM610	2049	Actinomycetaceae	family	n.a.	n.a.	2049	Actinomycetaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM611	447020	Adlercreutzia	genus	447020	Adlercreutzia	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM612	1375	Aerococcus	genus	1375	Aerococcus	186827	Aerococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM613	642	Aeromonas	genus	642	Aeromonas	84642	Aeromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM614	878320	Aeromonas	caviae	Ae398	Strain	642	Aeromonas	84642	Aeromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM615	416916	Aggregatibacter	genus	416916	Aggregatibacter	712	Pasteurellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM616	1050720	Agrobacterium	tumefaciens	F2	Strain	357	Agrobacterium	82115	Rhizobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM617	n.a.	Akkermansia	spp.	Species	239934	Akkermansia	1647988	Akkermansiaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM618	506	Alcaligenaceae	family	n.a.	n.a.	506	Alcaligenaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM619	507	Alcaligenes	genus	507	Alcaligenes	506	Alcaligenaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM620	626932	Alistipes	indistinctus	Species	239759	Alistipes	171550	Rikenellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM621	293826	Alkaliphilus	metalliredigens	QYMF	Strain	114627	Alkaliphilus	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM622	350688	Alkaliphilus	oremlandii	OhILAs	Strain	114627	Alkaliphilus	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM623	n.a.	Alpha	and	beta	diversity	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No				
+PMDBM624	28211	Alphaproteobacteria	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM625	29331	Amphibacillus	genus	29331	Amphibacillus	186817	Bacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM626	n.a.	an	unclassiﬁed	member	of	the	Neisseriaceae	family	n.a.	n.a.	n.a.	481	Neisseriaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM627	n.a.	anaerobes	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM628	n.a.	anaerobic	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM629	n.a.	anaerobic	Bacteroidales	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM630	165779	Anaerococcus	genus	165779	Anaerococcus	1570339	Peptoniphilaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM631	186333	Anaeroplasmataceae	family	n.a.	n.a.	186333	Anaeroplasmataceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM632	207244	Anaerostipes	genus	207244	Anaerostipes	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM633	1663	Arthrobacter	genus	1663	Arthrobacter	1268	Micrococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM634	49082	Arthromitus	n.a.	n.a.	n.a.	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM635	1380	Atopobium	genus	1380	Atopobium	1643824	Atopobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM636	292480	Atopostipes	genus	292480	Atopostipes	186828	Carnobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM637	1385	Bacillales	order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM638	n.a.	Bacillales_Other	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM639	1396	Bacillus	cereus	Species	1386	Bacillus	186817	Bacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM640	699184	Bacillus	cereus	SJ1	Strain	1386	Bacillus	186817	Bacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM641	441769	Bacillus	coahuilensis	m4-4	Strain	1386	Bacillus	186817	Bacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM642	1423	Bacillus	subtilis	Species	1386	Bacillus	186817	Bacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM643	1118061	Bacteroidales	bacterium	ph8	Strain	239759	Alistipes	171550	Rikenellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM644	n.a.	Bacteroidales	family	S7-25	Strain	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM645	n.a.	Bacteroidales	other	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM646	762984	Bacteroides	clarus	YIT	12056	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM647	357276	Bacteroides	dorei	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM648	46506	Bacteroides	stercoris	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM649	n.a.	Bacteroides	thetaiotaomicron	strain	8669	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM650	n.a.	Bacteroidetes	sp.	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM651	200643	Bacteroidia	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM652	n.a.	Barnesiellaceae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM653	n.a.	Beta-glucuronidase	encoding	species	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM654	28216	Betaproteobacteria	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM655	411481	Bifidobacterium	adolescentis	L2-32	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM656	398513	Bifidobacterium	bifidum	NCIMB	41171	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM657	1689	Bifidobacterium	dentium	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM658	871562	Bifidobacterium	dentium	ATCC	27679	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM659	547043	Bifidobacterium	pseudocatenulatum	DSM	20438	=	JCM	1200	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM660	78346	Bifidobacterium	ruminantium	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM661	n.a.	Biﬁdobacterium	spp.	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM662	759914	Brachyspira	pilosicoli	95/1000	Strain	29521	Brachyspira	143786	Brachyspiraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM663	41275	Brevundimonas	genus	41275	Brevundimonas	76892	Caulobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM664	243160	Burkholderia	mallei	ATCC	23344	Strain	32008	Burkholderia	119060	Burkholderiaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM665	269482	Burkholderia	vietnamiensis	G4	Strain	32008	Burkholderia	119060	Burkholderiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM666	830	Butyrivibrio	genus	830	Butyrivibrio	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM667	n.a.	Butyrivibrio	spp.	Species	830	Butyrivibrio	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM668	553220	Campylobacter	gracilis	RM3268	Strain	194	Campylobacter	72294	Campylobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM669	360107	Campylobacter	hominis	ATCC	BAA-381	Strain	194	Campylobacter	72294	Campylobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM670	526863	Candidatus	Aquirestis	calciphila	Species	526862	Candidatus	Aquirestis	89374	Saprospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM671	84646	Candidatus	Odyssella	genus	84646	Candidatus	Odyssella	1777752	Candidatus	Paracaedibacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM672	1331051	Candidatus	Saccharimonas	genus	1331051	Candidatus	Saccharimonas	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM673	1016	Capnocytophaga	genus	1016	Capnocytophaga	49546	Flavobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM674	553178	Capnocytophaga	gingivalis	ATCC	33624	Strain	1016	Capnocytophaga	49546	Flavobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM675	424536	Catabacteriaceae	family	n.a.	n.a.	424536	Catabacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM676	76892	Caulobacteraceae	family	n.a.	n.a.	76892	Caulobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM677	204458	Caulobacterales	order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM678	n.a.	Cecal	aerobic	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM679	180162	Cetobacterium	genus	180162	Cetobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM680	188913	Cetobacterium	somerae	Species	180162	Cetobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM681	200795	Chloroﬂexi	phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM682	1046	Chromatiaceae	family	n.a.	n.a.	1046	Chromatiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM683	59732	Chryseobacterium	genus	59732	Chryseobacterium	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM684	544	Citrobacter	genus	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM685	290338	Citrobacter	koseri	ATCC	BAA-895	Strain	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM686	637910	Citrobacter	rodentium	ICC168	Strain	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM687	469595	Citrobacter	sp.	30_2	species	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM688	500640	Citrobacter	youngae	ATCC	29220	Strain	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM689	31979	Clostridiaceae	family	n.a.	n.a.	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM690	538999	Clostridiales	incertae	sedis	no	rank	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM691	n.a.	Clostridiales_unassigned	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM692	445973	Clostridium	bartlettii	DSM	16795	Strain	1505657	Intestinibacter	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM693	290402	Clostridium	beijerinckii	NCIMB	8052	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM694	498214	Clostridium	botulinum	A3	str.	Loch	Maree	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM695	929506	Clostridium	botulinum	BKT015925	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM696	445337	Clostridium	botulinum	C	str.	Eklund	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM697	592027	Clostridium	botulinum	D	str.	1873	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM698	536233	Clostridium	botulinum	E1	str.	'BoNT	E	Beluga'	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM699	632245	Clostridium	butyricum	E4	str.	BoNT	E	BL5262	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM700	536227	Clostridium	carboxidivorans	P7	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM701	720554	Clostridium	clariflavum	DSM	19732	Strain	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM702	n.a.	Clostridium	cluster	XIVa	n.a.	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM703	69824	Clostridium	cocleatum	Species	1505663	Erysipelatoclostridium	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM704	500633	Clostridium	hiranonis	DSM	13275	Strain	n.a.	n.a.	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM705	386415	Clostridium	novyi	NT	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM706	451756	Clostridium	perfringens	CPE	str.	F4969	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM707	451755	Clostridium	perfringens	E	str.	JGS1987	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM708	457396	Clostridium	sp.	7_2_43FAA	species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM709	n.a.	Clostridium	spp.	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM710	1511	Clostridium	sticklandii	Species	186831	Acetoanaerobium	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM711	n.a.	Clostridium	XIVb	n.a.	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM712	445975	Collinsella	stercoris	DSM	13279	Strain	102106	Collinsella	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM713	283	Comamonas	genus	283	Comamonas	80864	Comamonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM714	n.a.	Coprobacillus	unclassified	n.a.	100883	Coprobacillus	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM715	1348911	Coprobacter	genus	1348911	Coprobacter	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM716	116085	Coprococcus	catus	species	33042	Coprococcus	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM717	84998	Coriobacteriia	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM718	700015	Coriobacterium	glomerans	PW2	Strain	33870	Coriobacterium	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM719	1653	Corynebacteriaceae	family	n.a.	n.a.	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM720	525262	Corynebacterium	jeikeium	ATCC	43734	Strain	1716	Corynebacterium	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM721	525263	Corynebacterium	lipophiloflavum	DSM	44291	Strain	1716	Corynebacterium	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM722	525264	Corynebacterium	pseudogenitalium	ATCC	33035	Strain	1716	Corynebacterium	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM723	662755	Corynebacterium	resistens	DSM	45100	Strain	1716	Corynebacterium	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM724	525268	Corynebacterium	striatum	ATCC	6940	Strain	1716	Corynebacterium	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM725	693216	Cronobacter	turicensis	z3032	Strain	413496	Cronobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM726	246874	Cryomorphaceae	family	n.a.	n.a.	246874	Cryomorphaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM727	1117	Cyanobacteria	phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM728	n.a.	Cyanobacteria/Chloroplast	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM729	n.a.	Dasytricha	spp.	Species	40805	Dasytricha	5985	Isotrichidae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM730	639282	Deferribacter	desulfuricans	SSM1	Strain	53572	Deferribacter	191394	Deferribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM731	200930	Deferribacteres	phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM732	n.a.	Dehalobacteriaceae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM733	51514	Dehalobacterium	n.a.	n.a.	n.a.	186807	Peptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM734	28221	Deltaproteobacteria	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM735	188626	Dermacoccus	sp.	Ellin185	Strain	57495	Dermacoccus	145357	Dermacoccaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM736	177439	Desulfotalea	psychrophila	LSv54	Strain	109168	Desulfotalea	213121	Desulfobulbaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM737	207559	Desulfovibrio	alaskensis	G20	Strain	872	Desulfovibrio	194924	Desulfovibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM738	194924	Desulfovibrionaceae	family	n.a.	n.a.	194924	Desulfovibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM739	653733	Desulfurispirillum	indicum	S5	Strain	393029	Desulfurispirillum	189770	Chrysiogenaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM740	39948	Dialister	genus	39948	Dialister	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM741	198628	Dickeya	dadantii	3937	Strain	204037	Dickeya	1903410	Pectobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM742	590409	Dickeya	dadantii	Ech586	Strain	204037	Dickeya	1903410	Pectobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM743	579405	Dickeya	dadantii	Ech703	Strain	204037	Dickeya	1903410	Pectobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM744	561229	Dickeya	zeae	Ech1591	Strain	204037	Dickeya	1903410	Pectobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM745	n.a.	Diplodinium	spp.	Species	47888	Diplodinium	47890	Ophryoscolecidae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM746	88431	Dorea	longicatena	Species	189330	Dorea	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM747	634503	Edwardsiella	ictaluri	93-146	Strain	635	Edwardsiella	1903412	Hafniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM748	84111	Eggerthella	genus	84111	Eggerthella	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM749	641853	Elusimicrobia	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM750	1028307	Enterobacter	aerogenes	KCTC	2190	Strain	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM751	640513	Enterobacter	asburiae	LF7a	Strain	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM752	1045856	Enterobacter	cloacae	EcWSU1	Strain	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM753	716541	Enterobacter	cloacae	subsp.	cloacae	ATCC	13047	Strain	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM754	718254	Enterobacter	cloacae	subsp.	cloacae	NCTC	9394	Strain	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM755	701347	Enterobacter	lignolyticus	SCF1	Strain	1330546	Pluralibacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM756	399742	Enterobacter	sp.	638	Strain	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM757	543	Enterobacteriaceae	family	n.a.	n.a.	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM758	81852	Enterococcaceae	family	n.a.	n.a.	81852	Enterococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM759	565654	Enterococcus	casseliflavus	EC10	Strain	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM760	580024	Enterorhabdus	genus	580024	Enterorhabdus	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM761	n.a.	Entodinium	spp.	Species	40635	Entodinium	47890	Ophryoscolecidae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM762	n.a.	Epidinium	spp.	Species	40637	Epidinium	47890	Ophryoscolecidae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM763	716540	Erwinia	amylovora	ATCC	49946	Strain	551	Erwinia	1903409	Erwiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM764	634500	Erwinia	billingiae	Eb661	Strain	551	Erwinia	1903409	Erwiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM765	465817	Erwinia	tasmaniensis	Et1/99	Strain	551	Erwinia	1903409	Erwiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM766	n.a.	Erysipelotrichaceae	noname	n.a.	n.a.	n.a.	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM767	502347	Escherichia	albertii	TW07627	Strain	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM768	469008	Escherichia	coli	BL21(DE3)	Strain	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM769	656449	Escherichia	coli	TW10509	Strain	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM770	186806	Eubacteriaceae	family	n.a.	n.a.	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM771	39488	Eubacterium	hallii	species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM772	903814	Eubacterium	limosum	KIST612	Strain	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM773	97253	Eubacterium	plexicaudatum	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM774	39496	Eubacterium	ventriosum	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM775	n.a.	F16	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM776	748224	Faecalibacterium	cf.	prausnitzii	KLE1255	Strain	216851	Faecalibacterium	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM777	117743	Flavobacteria	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM778	n.a.	Flexispira	spp	Species	2353	Flexispira	72293	Helicobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM779	203492	Fusobacteriaceae	family	n.a.	n.a.	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM780	848	Fusobacterium	genus	848	Fusobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM781	556263	Fusobacterium	necrophorum	D12	Strain	848	Fusobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM782	393480	Fusobacterium	nucleatum	subsp.	polymorphum	ATCC	10953	Strain	848	Fusobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM783	469606	Fusobacterium	nucleatum	subsp.	vincentii	4_1_13	Strain	848	Fusobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM784	1378	Gemella	genus	1378	Gemella	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM785	n.a.	Gemellaceae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM786	219685	Gemmatimonadetes	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM787	1196095	Gilliamella	apicola	Species	1193503	Gilliamella	1240483	Orbaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM788	n.a.	Gram-negative	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM789	626369	Granulicatella	elegans	ATCC	700633	Strain	117563	Granulicatella	186828	Carnobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM790	724	Haemophilus	genus	724	Haemophilus	712	Pasteurellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM791	729	Haemophilus	parainfluenzae	Species	724	Haemophilus	712	Pasteurellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM792	209	Helicobacter	genus	209	Helicobacter	72293	Helicobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM793	679897	Helicobacter	mustelae	12198	Strain	209	Helicobacter	72293	Helicobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM794	72293	Helicobacteraceae	family	n.a.	n.a.	72293	Helicobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM795	189772	Herpetosiphonales	order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM796	760142	Hippea	maritima	DSM	10411	Strain	84404	Hippea	117942	Desulfurellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM797	1573535	Holdemanella	n.a.	n.a.	n.a.	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM798	61170	Holdemania	n.a.	n.a.	n.a.	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM799	81	Hyphomicrobium	genus	81	Hyphomicrobium	45401	Hyphomicrobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM800	n.a.	Indole-producing	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM801	n.a.	Intestinal	microflora	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM802	1505657	Intestinibacter	genus	1505657	Intestinibacter	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM803	1392389	Intestinimonas	genus	1392389	Intestinimonas	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM804	227979	Jeotgalicoccus	genus	227979	Jeotgalicoccus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM805	43994	Johnsonella	genus	43994	Johnsonella	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM806	1006551	Klebsiella	oxytoca	KCTC	1686	Strain	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM807	575	Klebsiella	planticola	Species	160674	Raoultella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM808	507522	Klebsiella	pneumoniae	342	Strain	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM809	1506553	Lachnoclostridium	genus	1506553	Lachnoclostridium	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM810	28050	Lachnospira	n.a.	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM811	n.a.	Lachnospiraceae	bacterium	2	1	58FAA	Strain	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM812	n.a.	Lachnospiraceae	bacterium	3	1	57FAA	CT1	Strain	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM813	n.a.	Lachnospiraceae	bacterium	7	1	58FAA	Strain	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM814	n.a.	Lachnospirum	spp.	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM815	n.a.	lactic	acid	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM816	33958	Lactobacillaceae	family	n.a.	n.a.	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM817	525306	Lactobacillus	acidophilus	ATCC	4796	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM818	585524	Lactobacillus	amylolyticus	DSM	11664	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM819	1605	Lactobacillus	animalis	species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM820	525310	Lactobacillus	brevis	subsp.	gravesensis	ATCC	27305	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM821	888027	Lactobacillus	delbrueckii	subsp.	lactis	DSM	20072	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM822	712938	Lactobacillus	fermentum	CECT	5716	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM823	525326	Lactobacillus	gasseri	JV-V03	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM824	440497	Lactobacillus	jensenii	1153	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM825	257314	Lactobacillus	johnsonii	NCC	533	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM826	1040964	Lactobacillus	ruminis	SPM0211	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM827	314315	Lactobacillus	sakei	subsp.	sakei	23K	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM828	525365	Lactobacillus	ultunensis	DSM	16047	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM829	1423814	Lactobacillus	vaginalis	ATCC	49540	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM830	420890	Lactococcus	garvieae	Lg2	Strain	1357	Lactococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM831	420345	Lactonifactor	n.a.	n.a.	n.a.	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM832	1091138	Lawsonia	n.a.	n.a.	n.a.	110015	Anthribidae	2759	Eukaryota	n.a.	n.a.	n.a.	No							
+PMDBM833	445	Legionella	genus	445	Legionella	444	Legionellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM834	525367	Listeria	grayi	DSM	20601	Strain	1637	Listeria	186820	Listeriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM835	702453	Listeria	seeligeri	FSL	N1-067	Strain	1637	Listeria	186820	Listeriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM836	906	Megasphaera	genus	906	Megasphaera	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM837	1064535	Megasphaera	elsdenii	DSM	20460	Strain	906	Megasphaera	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM838	n.a.	Methanobrevibacter	unclassified	n.a.	2172	Methanobrevibacter	2159	Methanobacteriaceae	2157	Archaea	n.a.	n.a.	n.a.	No						
+PMDBM839	33882	Microbacterium	genus	33882	Microbacterium	85023	Microbacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM840	n.a.	microbial	diversity	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM841	n.a.	microbiota	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM842	1268	Micrococcaceae	family	n.a.	n.a.	1268	Micrococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM843	n.a.	Mogibacteriaceae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM844	90690	Morganella	genus	90690	Morganella	5426	Lycoperdaceae	2759	Eukaryota	n.a.	n.a.	n.a.	No							
+PMDBM845	248039	Mucispirillum	schaedleri	Species	n.a.	n.a.	191394	Deferribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM846	n.a.	Mycobacterium	spp.	Species	1763	Mycobacterium	1762	Mycobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM847	888742	Neisseria	bacilliformis	ATCC	BAA-1200	Strain	482	Neisseria	481	Neisseriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM848	546263	Neisseria	elongata	subsp.	glycolytica	ATCC	29315	Strain	482	Neisseria	481	Neisseriaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM849	546266	Neisseria	mucosa	ATCC	25996	Strain	482	Neisseria	481	Neisseriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM850	481	Neisseriaceae	family	n.a.	n.a.	481	Neisseriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM851	203693	Nitrospira	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM852	n.a.	Nocardia	spp.	Species	1817	Nocardia	85025	Nocardiaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM853	n.a.	norank_c_Cyanobacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM854	n.a.	norank_f_Erysipelotrichaceae	n.a.	n.a.	n.a.	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM855	n.a.	Norank_f_Hados.	Sed.	Eubac.3	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM856	n.a.	Norank_f_Peptostreptococcaceae	n.a.	n.a.	n.a.	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM857	1161	Nostocales	order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM858	1853231	Odoribacteraceae	family	n.a.	n.a.	1853231	Odoribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM859	133925	Olsenella	genus	133925	Olsenella	1643824	Atopobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM860	633147	Olsenella	uli	DSM	7084	Strain	133925	Olsenella	1643824	Atopobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM861	n.a.	Ophryoscolex	spp.	Species	n.a.	n.a.	47890	Ophryoscolecidae	2759	Eukaryota	n.a.	n.a.	n.a.	No						
+PMDBM862	75682	Oxalobacteraceae	family	n.a.	n.a.	75682	Oxalobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM863	1100891	Paenalcaligenes	genus	1100891	Paenalcaligenes	506	Alcaligenaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM864	186822	Paenibacillaceae	family	n.a.	n.a.	186822	Paenibacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM865	44249	Paenibacillus	genus	44249	Paenibacillus	186822	Paenibacillaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM866	53335	Pantoea	genus	53335	Pantoea	1903409	Erwiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM867	1123863	Pantoea	ananatis	LMG	5342	Strain	53335	Pantoea	1903409	Erwiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM868	592316	Pantoea	sp.	At-9b	Strain	53335	Pantoea	1903409	Erwiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM869	387661	Parabacteroides	johnsonii	Species	375288	Parabacteroides	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM870	577309	Paraprevotella	genus	577309	Paraprevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM871	n.a.	Paraprevotellaceae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM872	712	Pasteurellaceae	family	n.a.	n.a.	712	Pasteurellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM873	218491	Pectobacterium	atrosepticum	SCRI1043	Strain	122277	Pectobacterium	1903410	Pectobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM874	561231	Pectobacterium	wasabiae	WPP163	Strain	122277	Pectobacterium	1903410	Pectobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM875	n.a.	Pedicoccus	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM876	186807	Peptococcaceae	family	n.a.	n.a.	186807	Peptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM877	879308	Peptoniphilus	sp.	oral	taxon	375	str.	F0436	Strain	162289	Peptoniphilus	1570339	Peptoniphilaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM878	n.a.	Peptostreptococcaceae	noname	n.a.	n.a.	n.a.	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM879	n.a.	Peptostreptococcaceae	noname	unclassified	n.a.	n.a.	n.a.	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM880	1257	Peptostreptococcus	genus	1257	Peptostreptococcus	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM881	596315	Peptostreptococcus	stomatis	DSM	17678	Strain	1257	Peptostreptococcus	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM882	243265	Photorhabdus	luminescens	subsp.	laumondii	TTO1	Strain	29487	Photorhabdus	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM883	118	Planctomyces	genus	118	Planctomyces	126	Planctomycetaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM884	186818	Planococcaceae	family	n.a.	n.a.	186818	Planococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM885	891974	Plautia	stali	symbiont	species	n.a.	n.a.	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM886	836	Porphyromonas	genus	836	Porphyromonas	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM887	596327	Porphyromonas	uenonis	Mar-60	Strain	836	Porphyromonas	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM888	n.a.	Prevotella	spp.	Species	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM889	563008	Prevotella	oris	C735	Strain	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM890	n.a.	Prevotella/Bacteroides	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM891	1051006	Propionibacterium	acnes	SK182B-JCVI	Strain	1912216	Cutibacterium	31957	Propionibacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM892	210425	Proteus	n.a.	n.a.	n.a.	166053	Proteidae	2759	Eukaryota	n.a.	n.a.	n.a.	No							
+PMDBM893	411467	Pseudoflavonifractor	capillosus	ATCC	29799	Strain	1017280	Pseudoflavonifractor	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM894	748280	Pseudogulbenkiania	sp.	NH8B	Strain	568394	Pseudogulbenkiania	1499392	Chromobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM895	1089456	Pseudomonas	aeruginosa	NCGM2.S1	Strain	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM896	43263	Pseudomonas	alcaligenes	Species	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM897	256466	Pseudomonas	japonica	Species	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM898	n.a.	Pseudomonas	plecoglossicida	strain	CGMCC	2093	Strain	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM899	n.a.	Pseudomonas	plecoglossicida	strain	R18	Strain	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM900	n.a.	Pseudomonas	putida	strain	SRI156	Strain	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM901	996285	Pseudomonas	stutzeri	DSM	4166	Strain	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM902	629259	Pseudomonas	syringae	pv.	morsprunorum	str.	M302280	Strain	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM903	745277	Rahnella	aquatilis	CIP	78.65	=	ATCC	33071	Strain	34037	Rahnella	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM904	741091	Rahnella	sp.	Y9602	Strain	34037	Rahnella	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM905	575	Raoultella	planticola	Species	160674	Raoultella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM906	533247	Raphidiopsis	brookii	D9	Strain	n.a.	n.a.	1892259	Aphanizomenonaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM907	67575	Rheinheimera	genus	67575	Rheinheimera	1046	Chromatiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM908	506534	Rheinheimera	sp.	A13L	Strain	67575	Rheinheimera	1046	Chromatiaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM909	41295	Rhodospirillaceae	family	n.a.	n.a.	41295	Rhodospirillaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM910	n.a.	Richness	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No							
+PMDBM911	n.a.	Richness	and	Shannon	evenness	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No				
+PMDBM912	301302	Roseburia	faecis	species	841	Roseburia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM913	360807	Roseburia	inulinivorans	Species	841	Roseburia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM914	680646	Rothia	mucilaginosa	DY-18	Strain	32207	Rothia	1268	Micrococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM915	n.a.	Rothia	spp.	Species	32207	Rothia	1268	Micrococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM916	n.a.	Ruminococcaceae_other	n.a.	n.a.	n.a.	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM917	641112	Ruminococcus	flavefaciens	FD-1	Strain	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM918	457412	Ruminococcus	sp.	5_1_39BFAA	Strain	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM919	657323	Ruminococcus	sp.	SR1/5	species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM920	n.a.	Ruminococcus	spp.	Species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM921	n.a.	S24-7	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM922	95818	Saccharibacteria	phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM923	590	Salmonella	genus	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM924	218493	Salmonella	bongori	NCTC	12419	Strain	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM925	882884	Salmonella	enterica	subsp.	arizonae	serovar	62:z4,z23:-	str.	RSK2980	Strain	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No
+PMDBM926	909945	Salmonella	enterica	subsp.	enterica	serovar	Dublin	str.	SD3246	Strain	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No
+PMDBM927	1936988	Saprospirales	order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM928	n.a.	Segmented	ﬁlamentous	bacteria	(SFB)	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM929	667129	Serratia	odorifera	DSM	4582	Strain	613	Serratia	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM930	399741	Serratia	proteamaculans	568	Strain	613	Serratia	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM931	768490	Serratia	sp.	AS12	Strain	613	Serratia	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM932	n.a.	Shannon	evenness	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM933	n.a.	Shannon	index	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No						
+PMDBM934	22	Shewanella	genus	22	Shewanella	267890	Shewanellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM935	318167	Shewanella	frigidimarina	NCIMB	400	Strain	22	Shewanella	267890	Shewanellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM936	399804	Shewanella	putrefaciens	200	Strain	22	Shewanella	267890	Shewanellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM937	n.a.	Shewanella	sp.	Ana-3	Species	22	Shewanella	267890	Shewanellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM938	620	Shigella	genus	620	Shigella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM939	649764	Slackia	exigua	ATCC	700122	Strain	84108	Slackia	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM940	471855	Slackia	heliotrinireducens	DSM	20476	Strain	84108	Slackia	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM941	n.a.	Slackia	spp.	Species	84108	Slackia	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM942	1196083	Snodgrassella	alvi	species	1193515	Snodgrassella	481	Neisseriaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM943	204457	Sphingomonadales	order	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM944	13687	Sphingomonas	genus	13687	Sphingomonas	41297	Sphingomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM945	203692	Spirochaetes	class	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM946	1569	Sporosarcina	genus	1569	Sporosarcina	186818	Planococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM947	90964	Staphylococcaceae	family	n.a.	n.a.	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM948	754026	Staphylococcus	aureus	subsp.	aureus	MRSA177	Strain	1279	Staphylococcus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM949	1282	Staphylococcus	epidermidis	Species	1279	Staphylococcus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM950	525376	Staphylococcus	epidermidis	W23144	Strain	1279	Staphylococcus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM951	n.a.	Staphylococcus	spp.	Species	1279	Staphylococcus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM952	40323	Stenotrophomonas	genus	40323	Stenotrophomonas	32033	Xanthomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM953	1328	Streptococcus	anginosus	species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM954	663952	Streptococcus	dysgalactiae	subsp.	dysgalactiae	ATCC	27957	Strain	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM955	1069533	Streptococcus	infantarius	subsp.	infantarius	CJ18	Strain	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM956	68892	Streptococcus	infantis	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM957	1309	Streptococcus	mutans	species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM958	760570	Streptococcus	parasanguinis	ATCC	15912	Strain	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM959	1305	Streptococcus	sanguinis	species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM960	1051074	Streptococcus	thermophilus	JIM	8232	Strain	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM962	n.a.	Sutterella	spp.	Species	40544	Sutterella	995019	Sutterellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM963	995019	Sutterellaceae	family	n.a.	n.a.	995019	Sutterellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM964	195950	Tannerella	genus	195950	Tannerella	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM965	544448	Tenericutes	phylum	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM966	n.a.	The	bacterial	community	diversity	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No				
+PMDBM967	n.a.	The	bacterial	diversity	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No					
+PMDBM968	n.a.	The	diversity	of	microbiota	in	colon	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No		
+PMDBM969	n.a.	The	diversity	of	total	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No			
+PMDBM970	n.a.	TM6_Dependentiae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM971	n.a.	TM7	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM972	n.a.	total	aerobic	bacteria	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM973	82802	Trichococcus	genus	82802	Trichococcus	186828	Carnobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM974	2039	Tropheryma	whipplei	species	2038	Tropheryma	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM975	n.a.	Turicibacteraceae	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM976	n.a.	unclassiﬁed	Clostridiales	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM977	n.a.	Unclassified	gut	microbiota	n.a.	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM978	186928	unclassified	Lachnospiraceae	no	rank	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM979	41296	unclassified	Rhodospirillaceae	no	rank	n.a.	n.a.	41295	Rhodospirillaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM980	552397	unclassified	Ruminococcaceae	no	rank	n.a.	n.a.	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM981	n.a.	Unclassified_f_Comamonadaceae	n.a.	n.a.	n.a.	80864	Comamonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM982	29465	Veillonella	genus	29465	Veillonella	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM983	546273	Veillonella	dispar	ATCC	17748	Strain	29465	Veillonella	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM984	450749	Veillonella	sp.	6_1_27	Strain	29465	Veillonella	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM985	879309	Veillonella	sp.	oral	taxon	158	str.	F0412	Strain	29465	Veillonella	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No	
+PMDBM986	n.a.	Veillonella	unclassified	n.a.	29465	Veillonella	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No						
+PMDBM987	31977	Veillonellaceae	family	n.a.	n.a.	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM988	203557	Verrucomicrobiaceae	family	n.a.	n.a.	203557	Verrucomicrobiaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM989	662	Vibrio	genus	662	Vibrio	641	Vibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM990	675811	Vibrio	furnissii	CIP	102972	Strain	662	Vibrio	641	Vibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM991	911104	Weissella	cibaria	KACC	11862	Strain	46255	Weissella	81850	Leuconostocaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM992	338	Xanthomonas	genus	338	Xanthomonas	32033	Xanthomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No							
+PMDBM993	316273	Xanthomonas	campestris	pv.	vesicatoria	str.	Oct-85	Strain	338	Xanthomonas	32033	Xanthomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	No		
+PMDBM994	406818	Xenorhabdus	bovienii	SS-2004	Strain	626	Xenorhabdus	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	No					
+PMDBM995	406817	Xenorhabdus	nematophila	ATCC	19061	Strain	626	Xenorhabdus	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	No				
+PMDBM996	393305	Yersinia	enterocolitica	subsp.	enterocolitica	8081	Strain	629	Yersinia	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	No			
+PMDBM997	n.a.	α-Diversity	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No							
+PMDBM998	n.a.	γ-Proteobacteria	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	No							
+PMDBM10	n.a.	Alistipes	indistinctus	DSM	22520	Strain	239759	Alistipes	171550	Rikenellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM100	216816	Bifidobacterium	longum	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM101	n.a.	Bifidobacterium	longum	H-1	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM102	n.a.	Bifidobacterium	longum	HY8001	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM103	1682	Bifidobacterium	longum	subsp.	infantis	Subspecies	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Animal	Marketed	Yes				
+PMDBM104	537937	Bifidobacterium	longum	subsp.	Infantis	CCUG52486	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes			
+PMDBM106	28026	Bifidobacterium	pseudocatenulatum	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM11	28117	Alistipes	putredinis	Species	239759	Alistipes	171550	Rikenellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM110	35832	Bilophila	Genus	35832	Bilophila	194924	Desulfovibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM111	35833	Bilophila	wadsworthia	Species	n.a.	n.a.	194924	Desulfovibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM112	572511	Blautia	Genus	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM114	537007	Blautia	hansenii	DSM20583	Strain	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM117	33035	Blautia	producta	Species	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM119	478749	Marvinbryantia	formatexigens	DSM	14469	Strain	248744	Marvinbryantia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM12	174708	Allobaculum	Genus	174708	Allobaculum	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM121	580596	Butyricicoccus	Genus	580596	Butyricicoccus	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM122	501571	Butyricicoccus	pullicaecorum	Species	580596	Butyricicoccus	31979	Clostridiaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM123	574697	Butyricimonas	Genus	574697	Butyricimonas	1853231	Odoribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM127	194	Campylobacter	Genus	194	Campylobacter	72294	Campylobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM128	5476	Candida	albicans	Species	1535326	Candida	766764	Debaryomycetaceae	2759	Eukaryota	n.a.	n.a.	n.a.	Yes						
+PMDBM129	2747	Carnobacterium	Genus	2747	Carnobacterium	186828	Carnobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM13	1283313	Alloprevotella	Genus	1283313	Alloprevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM134	546	Citrobacter	freundii	Species	544	Citrobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM138	1898207	Clostridiales	bacterium	Species	n.a.	n.a.	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM141	1485	Clostridium	Genus	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM142	518636	Clostridium	asparagiforme	DSM15981	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM144	411902	Clostridium	bolteae	ATCCBAA-613	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM145	1492	Clostridium	butyricum	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM149	699035	Clostridium	difficile	120	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM150	566550	Clostridium	hathewayi	DSM13479	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM151	n.a.	Clostridium	innocuum	ES	6月24日	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM152	1535	Clostridium	leptum	Species	n.a.	n.a.	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM153	1502	Clostridium	perfringens	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM154	445974	Clostridium	ramosum	DSM1402	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM157	29347	Clostridium	scindens	Species	1506553	Lachnoclostridium	186803	Lachnospiraceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM158	411468	Clostridium	scindens	ATCC35704	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM16	561177	Anaerococcus	hydrogenalis	DSM7454	Strain	165779	Anaerococcus	1570339	Peptoniphilaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM161	428126	Clostridium	spiroforme	DSM1552	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM162	1509	Clostridium	sporogenes	Species	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM163	471871	Clostridium	sporogenes	ATCC15579	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM164	411472	Clostridium	symbiosum	ATCC14940	Strain	1485	Clostridium	31979	Clostridiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM166	102106	Collinsella	Genus	102106	Collinsella	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM167	74426	Collinsella	aerofaciens	Species	102106	Collinsella	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM168	411903	Collinsella	aerofaciens	ATCC25986	Strain	102106	Collinsella	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM169	521003	Collinsella	intestinalis	DSM13280	Strain	102106	Collinsella	84107	Coriobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM170	33042	Coprococcus	Genus	33042	Coprococcus	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM171	410072	Coprococcus	comes	Species	33042	Coprococcus	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM172	470146	Coprococcus	comes	ATCC27758	Strain	33042	Coprococcus	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM175	1716	Corynebacterium	Genus	1716	Corynebacterium	1653	Corynebacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM176	28141	Cronobacter	sakazakii	Species	413496	Cronobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM178	49338	Desulfitobacterium	hafniense	Species	36853	Desulfitobacterium	186807	Peptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM179	872	Desulfovibrio	Genus	872	Desulfovibrio	194924	Desulfovibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM180	876	Desulfovibrio	desulfuricans	Species	872	Desulfovibrio	194924	Desulfovibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM182	189330	Dorea	Genus	189330	Dorea	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM183	39486	Dorea	formicigenerans	Species	189330	Dorea	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM184	411461	Dorea	formicigenerans	ATCC27755	Strain	189330	Dorea	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM185	500638	Edwardsiella	tarda	ATCC23685	Strain	1903412	Edwardsiella	635	Hafniaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM186	84112	Eggerthella	lenta	Species	84111	Eggerthella	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM187	n.a.	Eggerthella	lenta	ATCC25559	Strain	84111	Eggerthella	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM19	244127	Anaerotruncus	Genus	244127	Anaerotruncus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM191	547	Enterobacter	Genus	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM192	500639	Enterobacter	cancerogenus	ATCC35316	Strain	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM193	550	Enterobacter	cloacae	Species	547	Enterobacter	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM196	1350	Enterococcus	Genus	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM198	37734	Enterococcus	casseliflavus	Species	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM199	1351	Enterococcus	faecalis	Species	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM2	469	Acinetobacter	Genus	469	Acinetobacter	468	Moraxellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM20	169435	Anaerotruncus	colihominis	Species	244127	Anaerotruncus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM200	226185	Enterococcus	faecalis	V583	Strain	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM201	1352	Enterococcus	faecium	Species	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM202	1354	Enterococcus	hirae	Species	1350	Enterococcus	81852	Enterococcaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM208	561	Escherichia	Genus	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM209	562	Escherichia	coli	Species	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	Yes	Human	Clinical	trial	Yes					
+PMDBM21	445972	Anaerotruncus	colihominis	DSM17241	Strain	244127	Anaerotruncus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM210	1322345	Escherichia	coli	ATCC	25922	Species	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM211	n.a.	Escherichia	coli	BW25113	Strain	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM212	585397	Escherichia	coli	ED1a	Species	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM213	585034	Escherichia	coli	IAI1	Species	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM214	316435	Escherichia	coli	Nissle	1917	Species	561	Escherichia	543	Enterobacteriaceae	2	Bacteria	Yes	Human	Clinical	trial	Yes			
+PMDBM216	1730	Eubacterium	Genus	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM218	518637	Eubacterium	biforme	DSM3989	Strain	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM219	39485	Eubacterium	eligens	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM22	162425	Aspergillus	nidulans	Species	5052	Aspergillus	1131492	Aspergillaceae	2759	Eukaryota	n.a.	n.a.	n.a.	Yes						
+PMDBM220	411469	Eubacterium	hallii	DSM3353	Strain	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM221	1736	Eubacterium	limosum	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM223	39490	Eubacterium	ramulus	Species	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM224	39491	Eubacterium	rectale	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM225	515619	Eubacterium	rectale	ATCC33656	Strain	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM23	5062	Aspergillus	oryzae	Species	5052	Aspergillus	1131492	Aspergillaceae	2759	Eukaryota	n.a.	n.a.	n.a.	Yes						
+PMDBM230	411463	Eubacterium	ventriosum	ATCC27560	Strain	1730	Eubacterium	186806	Eubacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM232	216851	Faecalibacterium	Genus	216851	Faecalibacterium	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM233	853	Faecalibacterium	prausnitzii	Species	216851	Faecalibacterium	541000	Ruminococcaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM236	833	Fibrobacter	succinogenes	Species	832	Fibrobacter	204431	Fibrobacteraceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM244	n.a.	Fusobacterium	nucleatum	G-470	Species	848	Fusobacterium	203492	Fusobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM247	2701	Gardnerella	Genus	2701	Gardnerella	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM249	644652	Gordonibacter	Genus	644652	Gordonibacter	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM253	210	Helicobacter	pylori	Species	209	Helicobacter	72293	Helicobacteraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM255	570	Klebsiella	Genus	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM256	571	Klebsiella	oxytoca	Species	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM257	574	Klebsiella	pneumoniae	subsp.	ozaenae	Subspecies	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM258	573	Klebsiella	pneumoniae	Species	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM259	39831	Klebsiella	pneumoniae	subsp.	rhinoscleromatis	Subspecies	570	Klebsiella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM26	55087	Bacillus	Genus	55087	Bacillus	55086	Bacillidae	2759	Eukaryota	n.a.	n.a.	n.a.	Yes							
+PMDBM268	1578	Lactobacillus	Genus	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM269	1579	Lactobacillus	acidophilus	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Field	trial	(Animal)	Yes				
+PMDBM270	1580	Lactobacillus	brevis	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM271	1585	Lactobacillus	delbrueckii	subsp.	bulgaricus	Subspecies	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Marketed	Yes				
+PMDBM272	1613	Lactobacillus	fermentum	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM274	33959	Lactobacillus	johnsonii	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM276	97478	Lactobacillus	mucosae	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Human	Clinical	trial	Yes					
+PMDBM277	1622	Lactobacillus	murinus	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM279	1590	Lactobacillus	plantarum	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM280	1598	Lactobacillus	reuteri	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM281	525341	Lactobacillus	reuteri	CF48-3A	BEI	HM-102	Strain	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes			
+PMDBM282	47715	Lactobacillus	rhamnosus	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM285	1357	Lactococcus	Genus	1357	Lactococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM286	1363	Lactococcus	garvieae	Species	1357	Lactococcus	1300	Streptococcaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM288	1243	Leuconostoc	Genus	1243	Leuconostoc	81850	Leuconostocaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM290	2172	Methanobrevibacter	Genus	2172	Methanobrevibacter	2159	Methanobacteriaceae	2157	Archaea	n.a.	n.a.	n.a.	Yes							
+PMDBM291	1269	Micrococcus	Genus	1269	Micrococcus	1268	Micrococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM292	1270	Micrococcus	luteus	Species	1269	Micrococcus	1268	Micrococcaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM295	582	Morganella	morganii	Species	581	Morganella	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM298	1763	Mycobacterium	Genus	1763	Mycobacterium	1762	Mycobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM299	2093	Mycoplasma	Genus	2093	Mycoplasma	2092	Mycoplasmataceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM300	2100	Mycoplasma	hyorhinis	Species	2093	Mycoplasma	2092	Mycoplasmataceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM302	283168	Odoribacter	Genus	283168	Odoribacter	1853231	Odoribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM303	28118	Odoribacter	splanchnicus	Species	283168	Odoribacter	1853231	Odoribacteraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM305	459786	Oscillibacter	Genus	459786	Oscillibacter	216572	Oscillospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM308	375288	Parabacteroides	Genus	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM309	823	Parabacteroides	distasonis	Species	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM31	816	Bacteroides	Genus	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM310	435591	Parabacteroides	distasonis	ATCC8503	Strain	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM311	328812	Parabacteroides	goldsteinii	Species	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM312	537006	Parabacteroides	johnsonii	DSM18315	Strain	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM313	46503	Parabacteroides	merdae	Species	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM314	411477	Parabacteroides	merdae	ATCC43184	Strain	375288	Parabacteroides	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM315	577310	Parasutterella	Genus	577310	Parasutterella	995019	Sutterellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM316	1253	Pediococcus	Genus	1253	Pediococcus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM318	n.a.	Peptostreptococcus	anaerobius	240	Species	1257	Peptostreptococcus	186804	Peptostreptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM322	33024	Phascolarctobacterium	Genus	33024	Phascolarctobacterium	909930	Acidaminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM324	703	Plesiomonas	shigelloides	Species	702	Plesiomonas	n.a.	n.a.	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM326	837	Porphyromonas	gingivalis	Species	836	Porphyromonas	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM328	838	Prevotella	Genus	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM329	165179	Prevotella	copri	Species	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM33	47678	Bacteroides	caccae	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM330	840	Prevotella	loescheii	Species	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM331	28135	Prevotella	oris	Species	838	Prevotella	171552	Prevotellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM339	471881	Proteus	penneri	ATCC35198	Strain	583	Proteus	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM34	411901	Bacteroides	caccae	ATCC43185	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM340	520999	Providencia	alcalifaciens	DSM30120	Strain	586	Providencia	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM341	521000	Providencia	rettgeri	DSM1131	Strain	586	Providencia	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM342	471874	Providencia	stuartii	ATCC25827	Strain	586	Providencia	1903414	Morganellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM346	286	Pseudomonas	Genus	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM347	287	Pseudomonas	aeruginosa	Species	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	Yes	Animal	Field	trial	(Animal)	Yes				
+PMDBM349	303	Pseudomonas	putida	Species	286	Pseudomonas	135621	Pseudomonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM35	537012	Bacteroides	cellulosilyticus	DSM14838	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM353	841	Roseburia	Genus	841	Roseburia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM354	301301	Roseburia	hominis	Species	841	Roseburia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM355	166486	Roseburia	intestinalis	Species	841	Roseburia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM356	536231	Roseburia	intestinalis	L1-82	Strain	841	Roseburia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM359	1263	Ruminococcus	Genus	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM36	547042	Bacteroides	coprophilus	DSM18228	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM360	1264	Ruminococcus	albus	Species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM361	40518	Ruminococcus	bromii	Species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	Yes	Animal	Field	trial	(Animal)	Yes				
+PMDBM362	1265	Ruminococcus	flavefaciens	Species	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM363	33038	Ruminococcus	gnavus	Species	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM364	411470	Ruminococcus	gnavus	ATCC29149	Strain	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM365	46228	Ruminococcus	lactaris	Species	n.a.	n.a.	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM366	471875	Ruminococcus	lactaris	ATCC29176	Strain	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM369	33039	Ruminococcus	torques	Species	572511	Blautia	186803	Lachnospiraceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM370	411460	Ruminococcus	torques	ATCC27756	Strain	1263	Ruminococcus	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM371	90371	Salmonella	enterica	subsp.	enterica	serovar	Typhimurium	Subspecies	590	Salmonella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes		
+PMDBM377	615	Serratia	marcescens	Species	613	Serratia	1903411	Yersiniaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM378	623	Shigella	flexneri	Species	620	Shigella	543	Enterobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM38	547042	Bacteroides	dorei	DSM17855	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM381	1279	Staphylococcus	Genus	1279	Staphylococcus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM382	1280	Staphylococcus	aureus	Species	1279	Staphylococcus	90964	Staphylococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM385	1301	Streptococcus	Genus	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM386	1311	Streptococcus	agalactiae	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM388	1318	Streptococcus	parasanguinis	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM389	1314	Streptococcus	pyogenes	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM39	28111	Bacteroides	eggerthii	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM391	1304	Streptococcus	salivarius	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	Yes	Human	Clinical	trial	Yes					
+PMDBM392	1308	Streptococcus	thermophilus	Species	1301	Streptococcus	1300	Streptococcaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM394	292632	Subdoligranulum	Genus	292632	Subdoligranulum	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM395	411471	Subdoligranulum	variabile	DSM15176	Strain	292632	Subdoligranulum	541000	Ruminococcaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM397	40544	Sutterella	Genus	40544	Sutterella	995019	Sutterellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM399	191303	Turicibacter	Genus	191303	Turicibacter	128827	Erysipelotrichaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM4	446660	Adlercreutzia	equolifaciens	Species	447020	Adlercreutzia	1643826	Eggerthellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM40	483216	Bacteroides	eggerthii	DSM20697	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM405	29466	Veillonella	parvula	Species	29465	Veillonella	31977	Veillonellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM408	666	Vibrio	cholerae	Species	662	Vibrio	641	Vibrionaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM41	483215	Bacteroides	finegoldii	DSM17565	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM411	1583	Weissella	confusa	Species	46255	Weissella	81850	Leuconostocaceae	2	Bacteria	Yes	Animal	Research	Yes						
+PMDBM42	817	Bacteroides	fragilis	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM43	1339284	Bacteroides	fragilis	3397	T10	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM44	n.a.	Bacteroides	fragilis	ATCC43859	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM45	1339276	Bacteroides	fragilis	DS-208	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM46	n.a.	Bacteroides	fragilis	enterotoxigenic	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM47	1073386	Bacteroides	fragilis	HMW610	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM48	1073387	Bacteroides	fragilis	HMW615	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM49	272559	Bacteroides	fragilis	NCTC	9343	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM5	644	Aeromonas	hydrophila	Species	642	Aeromonas	84642	Aeromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM50	n.a.	Bacteroides	fragilis	nontoxigenic	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM506	n.a.	Lactobacillus	acidophilus	ATCC	4356	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM508	n.a.	Lactobacillus	casei	IFPL7190	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM509	n.a.	Lactobacillus	plantarum	IFPL93	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM51	n.a.	Bacteroides	fragilis	subspp.	Thetaotus	Subspecies	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM510	n.a.	Lactobacillus	reuteri	ATCC	23272	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM511	n.a.	Lactobacillus	rhamnosus	NZRM	299	Species	1578	Lactobacillus	33958	Lactobacillaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM517	n.a.	Bacteroides	uniformis	sp.	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM52	1339287	Bacteroides	fragilis	T(B)9	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM520	n.a.	Bifidobacterium	bifidum	HDD541	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM521	n.a.	Bifidobacterium	breve	NRRL	B-41408	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM522	n.a.	Bifidobacterium	breve	NZRM3932	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM53	n.a.	Bacteroides	intestinalis	AM-1	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM54	471870	Bacteroides	intestinalis	DSM17393	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM57	28116	Bacteroides	ovatus	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM58	411476	Bacteroides	ovatus	ATCC8483	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM59	483218	Bacteroides	pectinophilus	ATCC43243	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM6	239934	Akkermansia	Genus	239934	Akkermansia	1647988	Akkermansiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM66	449673	Bacteroides	stercoris	ATCC43183	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM67	n.a.	Bacteroides	stercoris	HJ-15	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM68	818	Bacteroides	thetaiotaomicron	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM69	n.a.	Bacteroides	thetaiotaomicron	3731	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM7	239935	Akkermansia	muciniphila	Species	239934	Akkermansia	1647988	Akkermansiaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM70	n.a.	Bacteroides	thetaiotaomicron	7330	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM71	226186	Bacteroides	thetaiotaomicron	VPI-5482	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM72	820	Bacteroides	uniformis	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM74	411479	Bacteroides	uniformis	ATCC8492	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM75	821	Bacteroides	vulgatus	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM76	435590	Bacteroides	vulgatus	ATCC8482	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM78	371601	Bacteroides	xylanisolvens	Species	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	Yes	Human	Clinical	trial	Yes					
+PMDBM79	n.a.	Bacteroides	xylanisolvens	DSM18836	Strain	816	Bacteroides	815	Bacteroidaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM8	349741	Akkermansia	muciniphila	ATCC	BAA-835	Strain	239934	Akkermansia	1647988	Akkermansiaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM82	397864	Barnesiella	Genus	397864	Barnesiella	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM83	487174	Barnesiella	intestinihominis	Species	397864	Barnesiella	171551	Porphyromonadaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes						
+PMDBM87	1678	Bifidobacterium	Genus	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM88	1680	Bifidobacterium	adolescentis	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM89	367928	Bifidobacterium	adolescentis	ATCC	15703	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM9	239759	Alistipes	Genus	239759	Alistipes	171550	Rikenellaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes							
+PMDBM93	1681	Bifidobacterium	bifidum	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Animal	Marketed	Yes						
+PMDBM94	1685	Bifidobacterium	breve	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Human	Research	Yes						
+PMDBM95	1036735	Bifidobacterium	breve	CECT	7263	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes				
+PMDBM96	518634	Bifidobacterium	breve	DSM20213	Strain	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM97	n.a.	Bifidobacterium	breve	K-110	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	n.a.	n.a.	n.a.	Yes					
+PMDBM98	1686	Bifidobacterium	catenulatum	Species	1678	Bifidobacterium	31953	Bifidobacteriaceae	2	Bacteria	Yes	Human	Research	Yes						

@@ -1,0 +1,1001 @@
+<<<<<<< HEAD
+Ankylosing spondylitis	D013167
+Non-alcoholic fatty liver disease	D065626
+Type i diabetes mellitus	Error
+Cirrhosis of liver	Error
+Viral encephalitis	D018792
+Atrophic vaginitis	D059268
+Hepatitis, alcoholic	D006519
+Hiv infection	D015658
+Infection	D007239
+Crohn's disease	D003424
+Atherosclerosis	D050197
+Celiac disease	D002446
+Chronic obstructive pulmonary disease	D029424
+Pancreatic carcinoma	Error
+Hashimoto's thyroiditis	Error
+Aggressive periodontitis	D010520
+Cutaneous burn	Error
+Hepatitis c infection	Error
+Ulcerative colitis	D003093
+Kaposi's sarcoma	D012514
+Colorectal cancer	D015179
+Parkinson's disease	D010300
+Epiglottitis	D004826
+Virus respiratory tract infection	Error
+Type 2 diabetes	D003924
+Autism spectrum disorder	D000067
+Mouth neoplasm	D009062
+Bacteriemia	Error
+Autism	D001321
+Behcet's syndrome	D001528
+Multiple sclerosis	D009103
+Atopic eczema	Error
+Alcoholic pancreatitis	D019512
+Bacteria vaginosis	Error
+Rabies	Error
+Cystic fibrosis associated meconium ileum	Error
+Pelvic inflammatory disease	D000292
+Granulomatous dermatitis	Error
+Herpes simplex infection	Error
+Erysipelas	D004886
+Idiopathic pulmonary fibrosis	D054990
+Oral tuberculosis	D014393
+Cystic fibrosis	D003550
+Pervasive developmental disorder - not otherwise specified	Error
+Dental caries	D003731
+Urinary tract infection	D014552
+Periodontitis	D010518
+Viral pneumonia	D011024
+Encephalopathy	D001927
+Trench fever	D014205
+Skin and soft tissue staphylococcus aureus infection	Error
+Rheumatoid arthritis	Error
+Psoriasis	D011565
+Dacryocystitis - osteopoikilosis	Error
+Ischemia	D007511
+Lymphoproliferative disease	Error
+Azoospermia	D053713
+European foulbrood	Error
+Diarrhea	D003967
+Eye infection	D015817
+Urgency urinary incontinence	Error
+Gastroenteritis	Error
+Primary biliary cirrhosis	D008105
+Shigellosis	D004405
+Necrotizing ulcerative gingivitis	Error
+Hepatitis b infection	Error
+Heart failure	D006333
+Endocarditis	D004696
+Pouchitis	D019449
+Eumycotic mycetoma	Error
+Aids	D000163
+Opisthorchiasis	D009889
+Skin wound	Error
+Myofascial pain syndrome	D009209
+Interstitial cystitis	D018856
+Laryngeal squamous cell carcinoma	D000077
+Ostomyelitis	Error
+Pneumonia	Error
+Streptococcal pneumonia	Error
+Infectious meningitis	Error
+Myoclonic cerebellar dyssynergia	D002527
+Lymphangitis	D008205
+Asthma	D001249
+Nocardiosis	D009617
+Septic shock	D012772
+Systemic lupus erythematosus	D008180
+Amyotrophic lateral sclerosis	Error
+Rem sleep behavior disorder	D020187
+Congenital short bowel syndrome	D007418
+Sclerosing cholangitis	D015209
+Schistosomiasis	D012552
+Kidney stone	D007669
+Pelvic inflamm atory disease	Error
+Granuloma inguinale	D006100
+Necrotizing enterocolitis	D020345
+Obesity	D009765
+Black leg disease	Error
+Meibomian cyst	D017043
+Chronic kidney disease	D051436
+Visceral leishmaniasis	D007898
+Refractory celiac disease	Error
+Colon adenocarcinoma	D003110
+Smoking behavior	D012907
+Nonchlamydial nongonococcal urethritis in males	Error
+Non-alcoholic steatohepatitis	Error
+Hypertension	D006973
+Human papilloma virus infection	Error
+Type 1 diabetes	D003922
+Hirschsprung disease - nail hypoplasia - dysmorphism	Error
+Progressive multifocal leukoencephalopathy	D007968
+Clostridium difficile infection	D003015
+Major depressive episode	Error
+Chronic bacteria prostatitis	Error
+Osteomyelitis	D010019
+Liver disease	D008107
+Autoimmune polyendocrinopathy type 1	Error
+Polycystic ovary syndrome	D011085
+Leishmaniasis	D007896
+Leprosy	D007918
+Cutaneous leishmaniasis	D016773
+Pleuropulmonary blastoma	Error
+Dandruff	D063807
+Pulmonary tuberculosis	D014397
+Pulmonary arterial hypertension associated with another disease	Error
+Acute chest syndrome	D056586
+Orchitis	D009920
+Chronic rhinosinusitis	Error
+Black scour disease	Error
+Psoriatic arthritis	D015535
+Autoimmune hepatitis	D019693
+Infectious arthritis	D001170
+Pelvic in铿俛mmatory disease	Error
+Alzheimers disease	Error
+Preeclampsia	D011225
+Systemic inflammatory response syndrome	D018746
+Anorexia nervosa	D000856
+Enterobiasis	D017229
+Vincent angina bacteria	Error
+Plantar fasciitis	D036981
+Periapical granuloma	D010484
+Systemic scleroderma	D012595
+Peritonsillar abscess	D000039
+Brain infarction	D020520
+Transient ischemic attack	D002546
+Trichomonas vaginitis	D014247
+Lymphadenitis	D008199
+Chronic fatigue syndrome	D015673
+Cutaneous fungus infections	Error
+Seizures	D012640
+Balantidiasis	D001447
+Oligoasthenoteratozoospermia	D009845
+Schizophrenia	D012559
+Not foundthogenic	Error
+Reactive arthritis	D016918
+Borrelia infectious disease	Error
+Renal carcinoma	D002292
+Inflammatory bowel disease	D015212
+Denture stomatitis	D013282
+Acanthamoeba keratitis	D015823
+Enthesitis-related arthritis	Error
+Maxillary sinusitis	D015523
+Deafness	D003638
+Tinea favosa	D014007
+Henoch-schoenlein purpura	D011695
+Constipation	D003248
+Appendicitis	D001064
+Brucellosis	D002006
+Streptococcal pharyngitis	Error
+Colorectal adenocarcinoma	Error
+Botulism	D001906
+Hyperthyroidism	D006980
+Tenosynovitis	D013717
+Neuromyelitis optica	D009471
+Dermal and genital lesions	Error
+Respiratory system disease	Error
+Peptic ulcers	D010437
+Periodontal	Error
+Scarlet fever	D012541
+Anogenital venereal wart	Error
+Vulvar carcinoma	Error
+Pregnancy	D011247
+Subdural empyema	D013354
+Asthma exacerbation measurement	Error
+Pyelonephritis	D011704
+Gnathomiasis	Error
+Otitis media	D010033
+Aseptic meningitis	D008582
+Mucocutaneous lymph node syndrome	D009080
+Peritonitis	D010538
+Attention deficit hyperactivity disorder	D001289
+Obsolete chromosome disorder	Error
+Response to transplant	Error
+Atopy	Error
+Oral cavity cancer	Error
+Protracted bacteria bronchitis	Error
+Ileocolitis	D003424
+Acute bacteria prostatitis	Error
+Diverticular disease	D000076
+Sepsis	D018805
+Urethritis	D014526
+Pectobacterium carotovorum infection	Error
+Spondylodiscitis	Error
+Eosinophilic esophagitis	D057765
+Barrett's esophagus	D001471
+Oral leukoplakia	D007972
+Muscle aches	Error
+Panophthalmitis	D010202
+Conjunctival disorder	Error
+Probiotic	Error
+Atrophic rhinitis	D012222
+Disease-free	Error
+Chikungunya encephalitis	Error
+Gastric carcinoma	Error
+Juvenile idiopathic arthritis	D001171
+Allergic sensitization measurement	Error
+Subacute sclerosing panencephalitis	D013344
+Cervical carcinoma	Error
+Colorectal carcinoma	Error
+Head and neck malignant neoplasia	Error
+Gangrene	D005734
+Vitiligo	D014820
+Abdominal abscess	D018784
+Type ii diabetes mellitus	Error
+Acne	D000152
+Peptic esophagitis	D004942
+Cold sores	D006560
+Genital herpes	D006558
+Rett syndrome	D015518
+Pseudomembranous enterocolitis	D004761
+Cervical adenocarcinoma	Error
+Malaria	D008288
+Fusariosis	Error
+Actinomycosis	D000196
+Viral cardiomyopathy	Error
+Corneal edema	Error
+Disseminated trichosporonosis	D060586
+Premature birth	D047928
+Bronchiolitis	D001988
+Membranous glomerulonephritis	D015433
+Seminal hyperviscosity	Error
+Sjogren syndrome	D012859
+Central nervous system infection	D002494
+Bacterial endocarditis	D004697
+Atrophic gastritis	D005757
+Tick infestation	D013984
+Allergy	D006967
+Virus syndromes	Error
+Chronic bronchitis	D029481
+Chlamydia	D002689
+Infections	D007239
+Myelitis	D009187
+Lung disease	D008171
+Human african trypanosomiasis	Error
+Pathogenic	Error
+Bullous skin disease	D012872
+Complications during parturition	Error
+Gum cancer	Error
+Dyspepsia	D004415
+Hutchinson-gilford progeria syndrome	D011371
+Gastrointestinal mucositis	Error
+Pancreatitis	D010195
+Secretory diarrhea	Error
+Sinusitis	Error
+Pasteurella hemorrhagic septicemia	Error
+Tuberculosis	D014376
+Chlamydiosis	Error
+Acute hepatitis a virus (hav) infection	Error
+Familial idiopathic steroid-resistant nephrotic syndrome	Error
+Diabetes mellitus	D003920
+Open-angle glaucoma	D005902
+Herpangina	D006557
+Brill-zinsser disease	D014438
+Genital warts	D003218
+Diphtheria	D004165
+Cutaneous acanthamebiasis	Error
+Echinococcosis	Error
+Human granulocytic anaplasmosis	D000712
+Aphthous ulcer	D013281
+Severe acute respiratory syndrome	D045169
+Coccidioidomycosis	D003047
+Hyperlipidemia	D006949
+Histoplasmosis	D006660
+Acute hemorrhagic conjunctivitis	D003232
+Oral lichen planus	D017676
+Septicemic plague	D010930
+Guillain-barre syndrome	D020275
+Dendritic keratitis	D007635
+Ludwig's angina	D008158
+Endometrial adenosquamous carcinoma	Error
+Dysfunction	Error
+Dengue disease	Error
+Myeloid sarcoma	D023981
+Giardiasis	D005873
+Infectious mononucleosis	D007244
+In children with genital lesions	Error
+Mild disease course	Error
+Neonatal sepsis	D000071
+Hydrocephalus	D006849
+Tinea	D014005
+Hemolytic uremic syndrome	D006463
+Helicobacter pylori infectious disease	Error
+Thyroid gland mucoepidermoid carcinoma	Error
+Buruli ulcer	Error
+Infertility	D007246
+Foot and mouth disease	D005536
+Gestational diabetes	D016640
+Ancylostomiasis	D000724
+Thrombophlebitis	D013924
+Oligoarticular juvenile idiopathic arthritis	Error
+Hepatic vein thrombosis	Error
+Pleural tuberculosis	D014396
+Colitis	D003092
+Whooping cough	D014917
+Cutaneous syphilis	D013591
+Escherichia coli meningitis	D020814
+Gas gangrene	D005738
+Exanthema subitum	D005077
+Pig-bel syndrome	Error
+Sickle cell anemia	Error
+Gastritis	D005756
+Esophageal squamous cell carcinoma	D000077
+Heterophyiasis	Error
+Spinal cord injury	Error
+Fungemia	D016469
+Cellulitis	D002481
+Allergic contact dermatitis	D017449
+Splenic disease	D013158
+Age-related macular degeneration	D008268
+New-onset untreated rheumatoid arthrits	Error
+Chromoblastomycosis	Error
+Typhus	D014438
+Prediabetes syndrome	Error
+Sporotrichosis	D013174
+Paragonimiasis	D010237
+Rheumatic fever	D012213
+Gonorrhea	D006069
+Nausea and vomiting	Error
+Rhinoscleroma	D012226
+Lung abscess	D008169
+Sarcoma	D012509
+Chagas cardiomyopathy	D002598
+Cervical glandular intraepithelial neoplasia	Error
+Bullous pemphigoid	Error
+Corporis	Error
+Constipation irritable bowel syndrome(ibs)	Error
+White-sutton syndrome	Error
+Cardiovascular disease	D002318
+Syphilis	D013587
+Cardiac arrhythmia	D001145
+Prosthesis-related infections	D016459
+Ocarditis	Error
+Cicatricial pemphigoid	Error
+Prostate carcinoma	Error
+Pneumocystosis	D011020
+Cryptosporidiosis	D003457
+Whipple's disease	D008061
+Inflammatory skin disease	Error
+Cytomegalovirus retinitis	Error
+Lungsaspergillosis	Error
+Croup	D003440
+Mucormycosis	D009091
+Megaesophagus	D004931
+Fever	D005334
+Proctitis	D011349
+Arthritis	D001168
+Red water disease	Error
+Bacterial conjunctivitis	D003234
+Erythema infectiosum	D016731
+Metagonimiasis	D014201
+Neuropathy	Error
+Familial adenomatous polyposis	D011125
+Rhinovirus infection	Error
+Colon cancer	D003110
+Nausea	D009325
+Bacterial vaginosis	D016585
+Urinary tract infections	D014552
+Peptic ulcer	D010437
+Odontogenic cyst	D009807
+Canaliculitis	D000069
+Vaginal inflammation	Error
+Lower urinary tract symptom	D059411
+Oral candidiasis	D002180
+Biliary dyskinesia	D001657
+Chronic periodontitis	D055113
+Diabetic foot	D017719
+Geotrichosis	D005847
+Salmonella gastroenteritis	Error
+Synovitis	D013585
+Trichomoniasis	D014245
+Foul odor	Error
+Congenital microcephaly	Error
+Suppuration of wounds	Error
+Eczema	D004485
+Colorado tick fever	D003121
+Legionellosis	D007876
+Rhinitis	D012220
+Dysplastic oral keratinocyte	Error
+Urogenital infections	Error
+Miliaria	D008883
+Cyclosporiasis	D021866
+Poliomyelitis	D011051
+Chronic gastritis	Error
+Anorexia	Error
+Chronic mucocutaneous candidosis	Error
+Bacterial meningitis	D016920
+Coronary artery disease	D003324
+Tetanus	D013742
+Amebiasis	D000562
+Recurrent pneumonia	Error
+Polyomas	Error
+Gastroesophageal reflux disease	D005764
+Hepatitis a	D006506
+Lesions in humans	Error
+Cholera	D002771
+Nephrolithiasis	D053040
+Inflammatory breast carcinoma	D058922
+Pityriasis versicolor	D014010
+Paracoccidioidomycosis	D010229
+Roseola	Error
+Meningoencephalitis	D008590
+Hepatitis	D006505
+Herpes zoster	D006562
+Western equine encephalitis	D020241
+Ulcers	D014456
+Babesiosis	D001404
+Ascites	D001201
+Hyalohyphomycosis	D060605
+Atc code d dermatologicals	Error
+Anemia	Error
+Q fever	D011778
+Scedosporiosis	Error
+Measles	D008457
+Systematic fungemia	Error
+Yersinia infectious disease	Error
+Toxic encephalopathy	D020258
+Injury	D014947
+Virus diarrhea	Error
+Epidemic pleurodynia	D011000
+Legionnaires' disease	D007877
+Alcohol dependence	D000437
+Bipolar disorder	Error
+Anisakiasis	D017129
+Sarcocystosis	D012523
+Mononucleosis among immunocompetent individuals	Error
+Listeriosis	D008088
+Late postpartum endometritis	Error
+Hepatitis e	D016751
+Extraoral abscesses	Error
+Pericarditis	D010493
+Hydrops fetalis	D015160
+Blastomycosis	D001759
+Ascariasis	D001196
+Dermoid cyst	D003884
+Enterocolitis	D004760
+Pneumonic pasteurellosis	D012766
+Multiple system atrophy	D019578
+Lupus nephritis	D008181
+Cryptococcosis	Error
+Respiratory syncytial virus infection	D018357
+Postmenopausal	Error
+Urosepsis	Error
+Renal transplant recipients and hemorrhagic cystiti	Error
+Coronary heart disease	D003327
+Lymphogranuloma venereumm	Error
+Rat-bite fever	Error
+Ephemeral fever	D004810
+Boutonneuse fever	D001907
+Pyoderma	D011711
+Gallbladder disease	D005705
+Null	Error
+Microsporidiosis	D016881
+Respiratory paralysis	D012133
+Transient aplastic crisis in patients with hemoglobinopathies	Error
+Nongonococcal urethritis in males	Error
+Gastric cancer	D013274
+Lyme disease	D008193
+Bartholin gland carcinoma	Error
+Adenomatosis, pulmonary	Error
+Tinea pedis	D014008
+Epithelial neoplasm	D009375
+Hemorrhagic disease of newborn	D006475
+Campylobacteriosis	D002169
+Parotitis	D010309
+Skin disease	D012871
+Rubella	D012409
+Chickenpox	D002644
+Malignant	Error
+Breast adenosis	D005348
+Rickettsiosis	D012282
+Gingival bleeding	Error
+Tumorous abscesses	Error
+Hepatocellular carcinoma	D006528
+Febrile seizures	D003294
+Cutaneous mycoses	Error
+Causing nosocomial	Error
+Congenital intrauterine infection-like syndrome	Error
+Keratoconjunctivitis sicca	D007638
+Furunculosis	D005667
+Erythrasma	D004894
+=======
+Ankylosing spondylitis	D013167
+Non-alcoholic fatty liver disease	D065626
+Type i diabetes mellitus	Error
+Cirrhosis of liver	Error
+Viral encephalitis	D018792
+Atrophic vaginitis	D059268
+Hepatitis, alcoholic	D006519
+Hiv infection	D015658
+Infection	D007239
+Crohn's disease	D003424
+Atherosclerosis	D050197
+Celiac disease	D002446
+Chronic obstructive pulmonary disease	D029424
+Pancreatic carcinoma	Error
+Hashimoto's thyroiditis	Error
+Aggressive periodontitis	D010520
+Cutaneous burn	Error
+Hepatitis c infection	Error
+Ulcerative colitis	D003093
+Kaposi's sarcoma	D012514
+Colorectal cancer	D015179
+Parkinson's disease	D010300
+Epiglottitis	D004826
+Virus respiratory tract infection	Error
+Type 2 diabetes	D003924
+Autism spectrum disorder	D000067
+Mouth neoplasm	D009062
+Bacteriemia	Error
+Autism	D001321
+Behcet's syndrome	D001528
+Multiple sclerosis	D009103
+Atopic eczema	Error
+Alcoholic pancreatitis	D019512
+Bacteria vaginosis	Error
+Rabies	Error
+Cystic fibrosis associated meconium ileum	Error
+Pelvic inflammatory disease	D000292
+Granulomatous dermatitis	Error
+Herpes simplex infection	Error
+Erysipelas	D004886
+Idiopathic pulmonary fibrosis	D054990
+Oral tuberculosis	D014393
+Cystic fibrosis	D003550
+Pervasive developmental disorder - not otherwise specified	Error
+Dental caries	D003731
+Urinary tract infection	D014552
+Periodontitis	D010518
+Viral pneumonia	D011024
+Encephalopathy	D001927
+Trench fever	D014205
+Skin and soft tissue staphylococcus aureus infection	Error
+Rheumatoid arthritis	Error
+Psoriasis	D011565
+Dacryocystitis - osteopoikilosis	Error
+Ischemia	D007511
+Lymphoproliferative disease	Error
+Azoospermia	D053713
+European foulbrood	Error
+Diarrhea	D003967
+Eye infection	D015817
+Urgency urinary incontinence	Error
+Gastroenteritis	Error
+Primary biliary cirrhosis	D008105
+Shigellosis	D004405
+Necrotizing ulcerative gingivitis	Error
+Hepatitis b infection	Error
+Heart failure	D006333
+Endocarditis	D004696
+Pouchitis	D019449
+Eumycotic mycetoma	Error
+Aids	D000163
+Opisthorchiasis	D009889
+Skin wound	Error
+Myofascial pain syndrome	D009209
+Interstitial cystitis	D018856
+Laryngeal squamous cell carcinoma	D000077
+Ostomyelitis	Error
+Pneumonia	Error
+Streptococcal pneumonia	Error
+Infectious meningitis	Error
+Myoclonic cerebellar dyssynergia	D002527
+Lymphangitis	D008205
+Asthma	D001249
+Nocardiosis	D009617
+Septic shock	D012772
+Systemic lupus erythematosus	D008180
+Amyotrophic lateral sclerosis	Error
+Rem sleep behavior disorder	D020187
+Congenital short bowel syndrome	D007418
+Sclerosing cholangitis	D015209
+Schistosomiasis	D012552
+Kidney stone	D007669
+Pelvic inflamm atory disease	Error
+Granuloma inguinale	D006100
+Necrotizing enterocolitis	D020345
+Obesity	D009765
+Black leg disease	Error
+Meibomian cyst	D017043
+Chronic kidney disease	D051436
+Visceral leishmaniasis	D007898
+Refractory celiac disease	Error
+Colon adenocarcinoma	D003110
+Smoking behavior	D012907
+Nonchlamydial nongonococcal urethritis in males	Error
+Non-alcoholic steatohepatitis	Error
+Hypertension	D006973
+Human papilloma virus infection	Error
+Type 1 diabetes	D003922
+Hirschsprung disease - nail hypoplasia - dysmorphism	Error
+Progressive multifocal leukoencephalopathy	D007968
+Clostridium difficile infection	D003015
+Major depressive episode	Error
+Chronic bacteria prostatitis	Error
+Osteomyelitis	D010019
+Liver disease	D008107
+Autoimmune polyendocrinopathy type 1	Error
+Polycystic ovary syndrome	D011085
+Leishmaniasis	D007896
+Leprosy	D007918
+Cutaneous leishmaniasis	D016773
+Pleuropulmonary blastoma	Error
+Dandruff	D063807
+Pulmonary tuberculosis	D014397
+Pulmonary arterial hypertension associated with another disease	Error
+Acute chest syndrome	D056586
+Orchitis	D009920
+Chronic rhinosinusitis	Error
+Black scour disease	Error
+Psoriatic arthritis	D015535
+Autoimmune hepatitis	D019693
+Infectious arthritis	D001170
+Pelvic in铿俛mmatory disease	Error
+Alzheimers disease	Error
+Preeclampsia	D011225
+Systemic inflammatory response syndrome	D018746
+Anorexia nervosa	D000856
+Enterobiasis	D017229
+Vincent angina bacteria	Error
+Plantar fasciitis	D036981
+Periapical granuloma	D010484
+Systemic scleroderma	D012595
+Peritonsillar abscess	D000039
+Brain infarction	D020520
+Transient ischemic attack	D002546
+Trichomonas vaginitis	D014247
+Lymphadenitis	D008199
+Chronic fatigue syndrome	D015673
+Cutaneous fungus infections	Error
+Seizures	D012640
+Balantidiasis	D001447
+Oligoasthenoteratozoospermia	D009845
+Schizophrenia	D012559
+Not foundthogenic	Error
+Reactive arthritis	D016918
+Borrelia infectious disease	Error
+Renal carcinoma	D002292
+Inflammatory bowel disease	D015212
+Denture stomatitis	D013282
+Acanthamoeba keratitis	D015823
+Enthesitis-related arthritis	Error
+Maxillary sinusitis	D015523
+Deafness	D003638
+Tinea favosa	D014007
+Henoch-schoenlein purpura	D011695
+Constipation	D003248
+Appendicitis	D001064
+Brucellosis	D002006
+Streptococcal pharyngitis	Error
+Colorectal adenocarcinoma	Error
+Botulism	D001906
+Hyperthyroidism	D006980
+Tenosynovitis	D013717
+Neuromyelitis optica	D009471
+Dermal and genital lesions	Error
+Respiratory system disease	Error
+Peptic ulcers	D010437
+Periodontal	Error
+Scarlet fever	D012541
+Anogenital venereal wart	Error
+Vulvar carcinoma	Error
+Pregnancy	D011247
+Subdural empyema	D013354
+Asthma exacerbation measurement	Error
+Pyelonephritis	D011704
+Gnathomiasis	Error
+Otitis media	D010033
+Aseptic meningitis	D008582
+Mucocutaneous lymph node syndrome	D009080
+Peritonitis	D010538
+Attention deficit hyperactivity disorder	D001289
+Obsolete chromosome disorder	Error
+Response to transplant	Error
+Atopy	Error
+Oral cavity cancer	Error
+Protracted bacteria bronchitis	Error
+Ileocolitis	D003424
+Acute bacteria prostatitis	Error
+Diverticular disease	D000076
+Sepsis	D018805
+Urethritis	D014526
+Pectobacterium carotovorum infection	Error
+Spondylodiscitis	Error
+Eosinophilic esophagitis	D057765
+Barrett's esophagus	D001471
+Oral leukoplakia	D007972
+Muscle aches	Error
+Panophthalmitis	D010202
+Conjunctival disorder	Error
+Probiotic	Error
+Atrophic rhinitis	D012222
+Disease-free	Error
+Chikungunya encephalitis	Error
+Gastric carcinoma	Error
+Juvenile idiopathic arthritis	D001171
+Allergic sensitization measurement	Error
+Subacute sclerosing panencephalitis	D013344
+Cervical carcinoma	Error
+Colorectal carcinoma	Error
+Head and neck malignant neoplasia	Error
+Gangrene	D005734
+Vitiligo	D014820
+Abdominal abscess	D018784
+Type ii diabetes mellitus	Error
+Acne	D000152
+Peptic esophagitis	D004942
+Cold sores	D006560
+Genital herpes	D006558
+Rett syndrome	D015518
+Pseudomembranous enterocolitis	D004761
+Cervical adenocarcinoma	Error
+Malaria	D008288
+Fusariosis	Error
+Actinomycosis	D000196
+Viral cardiomyopathy	Error
+Corneal edema	Error
+Disseminated trichosporonosis	D060586
+Premature birth	D047928
+Bronchiolitis	D001988
+Membranous glomerulonephritis	D015433
+Seminal hyperviscosity	Error
+Sjogren syndrome	D012859
+Central nervous system infection	D002494
+Bacterial endocarditis	D004697
+Atrophic gastritis	D005757
+Tick infestation	D013984
+Allergy	D006967
+Virus syndromes	Error
+Chronic bronchitis	D029481
+Chlamydia	D002689
+Infections	D007239
+Myelitis	D009187
+Lung disease	D008171
+Human african trypanosomiasis	Error
+Pathogenic	Error
+Bullous skin disease	D012872
+Complications during parturition	Error
+Gum cancer	Error
+Dyspepsia	D004415
+Hutchinson-gilford progeria syndrome	D011371
+Gastrointestinal mucositis	Error
+Pancreatitis	D010195
+Secretory diarrhea	Error
+Sinusitis	Error
+Pasteurella hemorrhagic septicemia	Error
+Tuberculosis	D014376
+Chlamydiosis	Error
+Acute hepatitis a virus (hav) infection	Error
+Familial idiopathic steroid-resistant nephrotic syndrome	Error
+Diabetes mellitus	D003920
+Open-angle glaucoma	D005902
+Herpangina	D006557
+Brill-zinsser disease	D014438
+Genital warts	D003218
+Diphtheria	D004165
+Cutaneous acanthamebiasis	Error
+Echinococcosis	Error
+Human granulocytic anaplasmosis	D000712
+Aphthous ulcer	D013281
+Severe acute respiratory syndrome	D045169
+Coccidioidomycosis	D003047
+Hyperlipidemia	D006949
+Histoplasmosis	D006660
+Acute hemorrhagic conjunctivitis	D003232
+Oral lichen planus	D017676
+Septicemic plague	D010930
+Guillain-barre syndrome	D020275
+Dendritic keratitis	D007635
+Ludwig's angina	D008158
+Endometrial adenosquamous carcinoma	Error
+Dysfunction	Error
+Dengue disease	Error
+Myeloid sarcoma	D023981
+Giardiasis	D005873
+Infectious mononucleosis	D007244
+In children with genital lesions	Error
+Mild disease course	Error
+Neonatal sepsis	D000071
+Hydrocephalus	D006849
+Tinea	D014005
+Hemolytic uremic syndrome	D006463
+Helicobacter pylori infectious disease	Error
+Thyroid gland mucoepidermoid carcinoma	Error
+Buruli ulcer	Error
+Infertility	D007246
+Foot and mouth disease	D005536
+Gestational diabetes	D016640
+Ancylostomiasis	D000724
+Thrombophlebitis	D013924
+Oligoarticular juvenile idiopathic arthritis	Error
+Hepatic vein thrombosis	Error
+Pleural tuberculosis	D014396
+Colitis	D003092
+Whooping cough	D014917
+Cutaneous syphilis	D013591
+Escherichia coli meningitis	D020814
+Gas gangrene	D005738
+Exanthema subitum	D005077
+Pig-bel syndrome	Error
+Sickle cell anemia	Error
+Gastritis	D005756
+Esophageal squamous cell carcinoma	D000077
+Heterophyiasis	Error
+Spinal cord injury	Error
+Fungemia	D016469
+Cellulitis	D002481
+Allergic contact dermatitis	D017449
+Splenic disease	D013158
+Age-related macular degeneration	D008268
+New-onset untreated rheumatoid arthrits	Error
+Chromoblastomycosis	Error
+Typhus	D014438
+Prediabetes syndrome	Error
+Sporotrichosis	D013174
+Paragonimiasis	D010237
+Rheumatic fever	D012213
+Gonorrhea	D006069
+Nausea and vomiting	Error
+Rhinoscleroma	D012226
+Lung abscess	D008169
+Sarcoma	D012509
+Chagas cardiomyopathy	D002598
+Cervical glandular intraepithelial neoplasia	Error
+Bullous pemphigoid	Error
+Corporis	Error
+Constipation irritable bowel syndrome(ibs)	Error
+White-sutton syndrome	Error
+Cardiovascular disease	D002318
+Syphilis	D013587
+Cardiac arrhythmia	D001145
+Prosthesis-related infections	D016459
+Ocarditis	Error
+Cicatricial pemphigoid	Error
+Prostate carcinoma	Error
+Pneumocystosis	D011020
+Cryptosporidiosis	D003457
+Whipple's disease	D008061
+Inflammatory skin disease	Error
+Cytomegalovirus retinitis	Error
+Lungsaspergillosis	Error
+Croup	D003440
+Mucormycosis	D009091
+Megaesophagus	D004931
+Fever	D005334
+Proctitis	D011349
+Arthritis	D001168
+Red water disease	Error
+Bacterial conjunctivitis	D003234
+Erythema infectiosum	D016731
+Metagonimiasis	D014201
+Neuropathy	Error
+Familial adenomatous polyposis	D011125
+Rhinovirus infection	Error
+Colon cancer	D003110
+Nausea	D009325
+Bacterial vaginosis	D016585
+Urinary tract infections	D014552
+Peptic ulcer	D010437
+Odontogenic cyst	D009807
+Canaliculitis	D000069
+Vaginal inflammation	Error
+Lower urinary tract symptom	D059411
+Oral candidiasis	D002180
+Biliary dyskinesia	D001657
+Chronic periodontitis	D055113
+Diabetic foot	D017719
+Geotrichosis	D005847
+Salmonella gastroenteritis	Error
+Synovitis	D013585
+Trichomoniasis	D014245
+Foul odor	Error
+Congenital microcephaly	Error
+Suppuration of wounds	Error
+Eczema	D004485
+Colorado tick fever	D003121
+Legionellosis	D007876
+Rhinitis	D012220
+Dysplastic oral keratinocyte	Error
+Urogenital infections	Error
+Miliaria	D008883
+Cyclosporiasis	D021866
+Poliomyelitis	D011051
+Chronic gastritis	Error
+Anorexia	Error
+Chronic mucocutaneous candidosis	Error
+Bacterial meningitis	D016920
+Coronary artery disease	D003324
+Tetanus	D013742
+Amebiasis	D000562
+Recurrent pneumonia	Error
+Polyomas	Error
+Gastroesophageal reflux disease	D005764
+Hepatitis a	D006506
+Lesions in humans	Error
+Cholera	D002771
+Nephrolithiasis	D053040
+Inflammatory breast carcinoma	D058922
+Pityriasis versicolor	D014010
+Paracoccidioidomycosis	D010229
+Roseola	Error
+Meningoencephalitis	D008590
+Hepatitis	D006505
+Herpes zoster	D006562
+Western equine encephalitis	D020241
+Ulcers	D014456
+Babesiosis	D001404
+Ascites	D001201
+Hyalohyphomycosis	D060605
+Atc code d dermatologicals	Error
+Anemia	Error
+Q fever	D011778
+Scedosporiosis	Error
+Measles	D008457
+Systematic fungemia	Error
+Yersinia infectious disease	Error
+Toxic encephalopathy	D020258
+Injury	D014947
+Virus diarrhea	Error
+Epidemic pleurodynia	D011000
+Legionnaires' disease	D007877
+Alcohol dependence	D000437
+Bipolar disorder	Error
+Anisakiasis	D017129
+Sarcocystosis	D012523
+Mononucleosis among immunocompetent individuals	Error
+Listeriosis	D008088
+Late postpartum endometritis	Error
+Hepatitis e	D016751
+Extraoral abscesses	Error
+Pericarditis	D010493
+Hydrops fetalis	D015160
+Blastomycosis	D001759
+Ascariasis	D001196
+Dermoid cyst	D003884
+Enterocolitis	D004760
+Pneumonic pasteurellosis	D012766
+Multiple system atrophy	D019578
+Lupus nephritis	D008181
+Cryptococcosis	Error
+Respiratory syncytial virus infection	D018357
+Postmenopausal	Error
+Urosepsis	Error
+Renal transplant recipients and hemorrhagic cystiti	Error
+Coronary heart disease	D003327
+Lymphogranuloma venereumm	Error
+Rat-bite fever	Error
+Ephemeral fever	D004810
+Boutonneuse fever	D001907
+Pyoderma	D011711
+Gallbladder disease	D005705
+Null	Error
+Microsporidiosis	D016881
+Respiratory paralysis	D012133
+Transient aplastic crisis in patients with hemoglobinopathies	Error
+Nongonococcal urethritis in males	Error
+Gastric cancer	D013274
+Lyme disease	D008193
+Bartholin gland carcinoma	Error
+Adenomatosis, pulmonary	Error
+Tinea pedis	D014008
+Epithelial neoplasm	D009375
+Hemorrhagic disease of newborn	D006475
+Campylobacteriosis	D002169
+Parotitis	D010309
+Skin disease	D012871
+Rubella	D012409
+Chickenpox	D002644
+Malignant	Error
+Breast adenosis	D005348
+Rickettsiosis	D012282
+Gingival bleeding	Error
+Tumorous abscesses	Error
+Hepatocellular carcinoma	D006528
+Febrile seizures	D003294
+Cutaneous mycoses	Error
+Causing nosocomial	Error
+Congenital intrauterine infection-like syndrome	Error
+Keratoconjunctivitis sicca	D007638
+Furunculosis	D005667
+Erythrasma	D004894
+>>>>>>> 8debcd79c21eff57d9b9ba544ed9e403f62d2b72

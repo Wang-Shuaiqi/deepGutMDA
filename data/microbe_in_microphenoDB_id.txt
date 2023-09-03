@@ -1,0 +1,1796 @@
+Enterobacteriaceae	543
+Bifidobacterium longum	216816
+Clostridiaceae bacterium sk061	433284
+Bacteroides	816
+Lymphocytic choriomeningitis virus	
+Mobiluncus mulieris	2052
+Microbacterium	33882
+Serratia	613
+Serratia	2985502
+Mycobacterium spp-rapid growers	
+Alicyclobacillus	29330
+Roseburia intestinalis	166486
+Curvibacter	281915
+Dorea	189330
+Veillonellaceae	31977
+Rikenellaceae	171550
+Akkermansia	239934
+Halomonas	2745
+Streptococcus intermedius	1338
+Butiricimonas	
+Bifidobacteriaceae	31953
+Human herpesvirus 8	
+Porphyromonas	836
+Moraxellaceae	468
+Haemophilus influenzae	727
+Corynebacterium pseudodiphtheriticum	37637
+Desulfovibrionaceae	194924
+Dermacoccus	57495
+Prevotella	838
+Lactobacillaceae	33958
+Eggerthella	84111
+Leptotrichia	32067
+Fusobacterium gonidiaformans	849
+Clostridium butyricum	1492
+Clostridiales	186802
+Parabacteroides	375288
+Tyzzerella nexilis	29361
+Odoribacter	283168
+Dialister	39948
+Neisseria spp	
+Hyaloscyphaceae	47743
+Xanthomonas	338
+Trichomonas vaginalis	5722
+Acanthamoeba hatchetti	65660
+Mycobacterium kansasii	1768
+Actinomycetaceae	2049
+Erysipelothrix rhusiopathiae	1648
+Influenza	
+Simonsiella muelleri	72
+Ruminococcus flavefaciens	1265
+Enterococcus faecium	1352
+Faecalibacterium prausnitzii	853
+Olsenella profusa	138595
+Gardnerella vaginalis	2702
+Butyrate-producing bacterium m21/2	245005
+Streptococcus porcinus	1340
+Haemophilus	724
+Propionibacterium acnes	1747
+Streptococcus pneumoniae	1313
+Enterococcus	1350
+Lachnoanaerobaculum	1164882
+Borrelia miyamotoi	47466
+Malassezia	55193
+Bifidobacterium	1678
+Saccharomyces cerevisiae	4932
+Anaerococcus	165779
+Lachnospira	28050
+Propionibacterium propionicum	
+Pantoea	53335
+Aquabacterium parvum	70584
+Flavonifractor	946234
+Escherichia coli	562
+Epstein-barr virus	
+Chitinimonas	240411
+Bacillus alvei	44250
+Trichostrongylus axei	40349
+Acinetobacter spp	
+Aestuariimicrobium	396388
+Oligella urethralis	90245
+Hookworms cestodes	
+Anaerococcus vaginalis	33037
+Sutterella	40544
+Shigella boydii	621
+Asaccharobacter	553372
+Streptococcus gallolyticus	315405
+Bacteroides ovatus	28116
+Pseudoalteromonas	53246
+Aeromonas sobria	646
+Clostridium cluster xiva	
+Madurella	100815
+Streptococcus	1301
+Campylobacter jejuni	197
+Sphingomonas yabuuchiae	172044
+Peptostreptococcus	1257
+Pseudomonas aeruginosa	287
+Staphylococcus aureus	1280
+Providencia	586
+Phialophora spp	
+Staphylococcus simulans	1286
+Pichia	4919
+Sphingobium xenophagum	121428
+Enterovirus	12059
+Mycoplasma pneumoniae	2104
+Coprobacillus	100883
+Neisseria meningitidis	487
+Johnsonella ignava	43995
+Cryptococcus neoformans	5207
+Veillonella	29465
+Staphylococcus epidermidis	1282
+Streptococcus spp	
+Pseudomonadaceae	135621
+Nocardia asteroides	1824
+Ruminococcus albus	1264
+Trichosporon asahii	82508
+Fusobacterium	848
+Ruminococcus	1263
+Enterococcaceae	81852
+Fucophilus fucoidanolyticus	177412
+P. multocida subsp multocida (cats)	
+Lactobacillus rhamnosus	47715
+Escherichia albertii	208962
+Blautia coccoides	1532
+Schistosoma mansoni	6183
+Alternaria	5598
+Stenotrophomonas	40323
+Chlamydia trachomatis	813
+Paraprevotella	577309
+Collinsella	102106
+Klebsiella granulomatis	39824
+Parainfluenza virus	
+Streptococcus infantarius	102684
+Candida albicans	5476
+Oribacterium asaccharolyticum	1501332
+Mycobacterium abscessus	36809
+Clostridium boltae	
+Alistipes	239759
+Clostridium fallax	1533
+Streptococcus parasanguinis	1318
+Staphylococcus	1279
+Catenibacterium	135858
+Hathewaya histolytica	1498
+Pasteurellaceae	712
+Prevotella salivae	228604
+Lactobacillus	1578
+Mycoplasma genitalium	2097
+Promicromonosporaceae	85017
+Bilophila	35832
+Corynebacteriaceae	1653
+Hallella	52228
+Aggregatibacter aphrophilus	732
+Staphylococcus capitis	29388
+Burkholderiales bacterium	1891238
+Lactobacillus crispatus	47770
+Eubacterium eligens	39485
+Pseudomonas	286
+Alistipes putredinis	28117
+Jc virus	
+Eubacterium coprostanoligenes	290054
+Ruminococcaceae	216572
+Filifactor	44259
+Lactobacillus mucosae	97478
+Neisseriagonorrhoeae	
+Strongyloides stercoralis	6248
+Prevotella pallens	60133
+Campylobacter	194
+Prevotella bryantii	77095
+Corynebacterium	1716
+Veillonella sp. oral taxon 780	671229
+Coprococcus eutactus	33043
+Clostridia	186801
+Leishmania	5658
+Leishmania	38568
+Mycobacterium leprae	1769
+Butyricicoccus	580596
+Selenomonas	970
+Burkholderia cepacia	292
+Dehalobacterium	51514
+Veillonella dispar	39778
+Enterobacter asburiae	61645
+Micrococcus	1269
+Shigella	620
+Erwinia	551
+Echinococcus	6209
+Variovorax	34072
+Parabacteroides distasonis	823
+Acidaminococcus	904
+Vibrisseaceae	292493
+Gemella haemolysans	1379
+Mycobacterium tuberculosis	1773
+Coccidioides immitis	5501
+Peptoniphilus	162289
+Propionimicrobium	203133
+Bacteroides-prevotella group	
+Trichostrongylus colubriformis	6319
+Ralstonia pickettii	329
+Tm7	
+Cupriavidus spp	
+Staphylococci	
+Methylobacter	429
+Fusobacterium spp	
+Neisseria gonorrhoeae	485
+Streptococcus mitis	28037
+Clostridium ramosum	1547
+Faecalibacterium	216851
+Arhtrobacter cumminsii	
+Escherichia	561
+Roseburia hominis	301301
+Porphyromonas gingivalis	837
+Anaerostipes	207244
+Flavonifractor plautii	292800
+Prevotella oris	28135
+Clostridium perfringens	1502
+Brucella spp	
+Clostridium cocleatum	69824
+Lactobacillus iners	147802
+Corynebacterium propinquum	43769
+Clostridium	1485
+Spirochaetaceae	137
+Veillonella parvula	29466
+Bacteroidetes	976
+Bacteroidetes	200643
+Enterobius vermicularis	51028
+Bifidobacterium angulatum	1683
+Prevotella intermedia	28131
+Human metapneumovirus	162145
+Sporothrix schenckii	29908
+Prevotella tannerae	76122
+Corynebacterium genitalium	38288
+Granulicatella	117563
+Prevotella histicola	470565
+Prevotella loescheii	840
+Kingella oralis	505
+Fibrobacter succinogenes	833
+Leptotrichia buccalis	40542
+Parvimonas	543311
+Listeria monocytogenes	1639
+Norovirus	142786
+Pseudomonas mendocina	300
+Leuconostoc	1243
+Enterococcus faecalis	1351
+Aspergillus spp	
+Sneathia	168808
+Cysticercosis	
+Peptococcus	2740
+Balantidium	71584
+Desulfovibrio	872
+Neisseria	482
+Roseburia	841
+Chlamydia pneumoniae	83558
+Citrobacter amalonaticus	35703
+Proteobacteria	1224
+Streptococcus thermophiles	
+Fretibacterium	1434006
+Clostridium clostridioforme	
+Bacteroides stercoris	46506
+Clostridium oceanicum	1543
+Bacterium asf500	97136
+Nitrospiraceae	189779
+Bacteroides massiliensis	204516
+Lautropia mirabilis	47671
+Mycobacterium spp	
+Erysipelatoclostridium	1505663
+Synergistetes	508458
+Wolinella	843
+Mycoplasma	2093
+Spirochaeta burgdorferi sensu lato complex (lyme borreliosis)e	
+Capnocytophaga	1016
+Peptostreptococcus anaerobius	1261
+Vivictivallis	
+Sphingomonas	13687
+Ruminococcus bromii	40518
+Streptococcus sanguinis	1305
+Acanthamoeba quina	211522
+Bacteroides vulgatus	821
+Bacteroides fragilis	817
+Anaeroglobus geminatus	156456
+Treponema maltophilum	51160
+Acidaminococcus fermentans	905
+Gymnopilus	86085
+Streptococcus pyogenes	1314
+Herpes simplex virus	
+Enterobacter gergoviae	61647
+Streptococcus thermophilus	1308
+Aneurinibacillus	55079
+Peptostreptococcaceae	186804
+Aeromonas	642
+Streptobacillus spp	
+Lactobacillus gasseri	1596
+Trichophyton schoenleinii	34386
+Bacteroides intestinalis	329854
+Parasutterella	577310
+Lachnospiraceae incertae sedis	2840493
+Eubacterium	1730
+Johnsonella	43994
+Comamonas	283
+Vibrio furnissii	29494
+Citrobacter	544
+Brucella melitensis	29459
+Cmv	
+Oscillibacter	459786
+Eubacterium biforme	1735
+Clostridium baratii	1561
+Prevotella nanceiensis	425941
+Prevotella scopos	589437
+Trichophyton spp	
+Burkholderia	32008
+Proteus	583
+Proteus	210425
+Phascolarctobacterium	33024
+Oscillospira	119852
+Coprococcus	33042
+Herpes simplex virus types 1	
+Herpes simplex virus types 2	
+Rubivirus	11040
+Acremonium	159075
+Anaerotruncus	244127
+Hiv	
+Mitrastema yamamotoi	51498
+Helicobacter	209
+Actinobaculum schaalii	59505
+Anoxybacillus	150247
+Adenovirus	
+Peptoclostridium	1481960
+Rhodococcus	1827
+Rhodococcus	1661425
+Desulfovibrio piger	901
+Parvimonas micra	33033
+Bacteroides thetaiotaomicron	818
+Gardnerella	2701
+Colorado tick fever virus	46839
+Blastomyces dermatidis	
+Coriobacteriaceae	84107
+Clostridium leptum	1535
+Rickettsia rickettsii (rmsf)	
+Pyramidobacter	638847
+Megamonas	158846
+Aggregatibacter actinomycetemcomitans	714
+Fusibacter	76008
+Paeniclostridium sordellii	1505
+Clostridium cluster iv	
+Lachnospiraceae	186803
+Moraxella catarrhalis	480
+Holdemania	61170
+Hmpv	
+Enteric bacteria	
+Gnathostoma	61463
+Corynebacterium xerosis	1725
+Scedosporium/pseudallescheria spp	
+Bacterium ic1311	330043
+Echovirus	33758
+Rothia	32207
+Rothia	508215
+Pseudoallescheria boydii	
+Mannheimia	75984
+Cryptococcus laurentii	5418
+Trichosporon mucoides	82522
+Prevotella copri	165179
+Barnesiella	397864
+Clostridium bartlettii	261299
+Verrucomicrobia	74201
+Methanobrevibacter smithii	2173
+Klebsiella	570
+Rothia denticariosa	
+Naegleria fowleri	5763
+Ruminococcus callidus	40519
+Candidatus portiera	235572
+Acanthamoeba palestinensis	28015
+Finegoldia magna	1260
+Lactonifactor	420345
+Russulaceae	5401
+Christensenellaceae	990719
+Anaerovorax	109326
+Moraxella lacunata	477
+Prevotella shahii	228603
+Eikenella corrodens	539
+Blautia	572511
+Tannerella	195950
+Streptococcaceae	1300
+Streptococcus vestibularis	1343
+Paraprevotella clara	454154
+Rhinovirus	
+Blastomyces dermatitidis	5039
+Porphyromonadaceae	171551
+Bacterium new zealand b	
+Mumps	
+Streptococcus bovis	1335
+Lachnoclostridium	1506553
+Stenotrophomonas maltophilia	40324
+Streptococcus milleri	33040
+Klebsiella spp	
+Neisseria weaverii	
+Mycoplasma hominis	
+Candida sake	39397
+Hymenobacter	89966
+Thermicanus	94008
+Moraxella catarrhalis and other spp	
+Enteric bacilli	
+Streptococcus gordonii	1302
+Trichosporon spp	
+Nitrosomonas eutropha	916
+Campylobacter rectus	203
+Enterovirus d68	42789
+Brachybacterium	43668
+Synergistaceae	649777
+Finegoldia	150022
+Catenibacterium mitsuokai	100886
+Clostridium disporicum	84024
+Malassezia globosa	76773
+Eubacterium saburreum	467210
+Enterobacter cloacae	550
+Moraxella osloensis	34062
+Cytomegalovirus	10358
+Gammaproteobacteria	1236
+Enhydrobacter	212791
+Bifidobacterium bifidum	1681
+Klebsiella pneumoniae	573
+Fusobacterium nucleatum	851
+Cortinariaceae	34450
+Acanthamoeba lugdunensis	61605
+Bergeyella	59735
+Salmonella	590
+Barnesiellaceae	2005519
+Enteric gram-negative bacilli	
+Catonella	43996
+Clostridium asparagiform	
+Actinomyces neuii	33007
+Powassan virus	11083
+Staphylococcus spp	
+Helicobacter cinaedi	213
+Listeria	1637
+Streptococcus alactolyticus	29389
+Aerococcus sanguinicola	119206
+Clostridia cluster i	
+Gemella sanguinis	84135
+St louis encephalitis	
+Erysipelotrichaceae	128827
+Clostridium difficile	1496
+Mitis group streptococci	
+Measles virus	
+Human papillomavirus type 18	333761
+Rubella	
+Firmicutes	1239
+Anaerobacter	1485
+Yimella	908935
+Pasteurella bettyae	752
+Enterobacter	547
+Ruminococcus torques	
+Bulleidia moorei	
+Candida intermedia	45354
+Staphylococcus equorum	246432
+Eggerthella lenta	84112
+Human herpesvirus 1	10298
+Hsv-1	
+Roseburia inulinivorans	360807
+Firmicutes str. c29	180824
+Treponema socranskii	53419
+Caliciviridae	11974
+Lactobacillus fermentum	1613
+Alistipes onderdonkii	328813
+Mycobacterium scrofulaceum	1783
+Capnocytophaga gingivalis	1017
+Trichosporon	5552
+Coxiella rickettsia (q fever)	
+Coxsackie	
+Enterococcus raffinosus	71452
+Plasmodium	5820
+Plasmodium	418103
+Spirochaeta turicatae (southwestern us)	
+Akkermansiaceae	1647988
+Sapovirus	95341
+Streptococcus anginosus	1328
+Butyrivibrio	830
+Actinomyces bovis	1658
+Bacteroides fragilis group	
+Desulfovibrio desulfuricans	876
+Microvirgula	57479
+Veillonella atypica	39777
+Butyrate-producing bacterium m104/1	245009
+Prevotella oulorum	28136
+Corynebacterium macginleyi	38290
+Proteus myxofaciens	184072
+Mycobacterium	1763
+Human bocavirus type i	
+Allisonella histaminiformans	209880
+Ruminococcus lactaris	
+Pseudoflavonifractor	1017280
+Bartonella henselae	38323
+Bacteroidaceae	815
+Staphylococcaceae	90964
+Eubacterium brachy	35517
+Fusicatenibacter saccharivorans	1150298
+Bilophila wadsworthia	35833
+Stomatobaculum	1213720
+Actinomyces meyerii	
+Centipeda	82202
+Centipeda	82283
+Acanthamoeba spp	
+Acinetobacter	469
+Bacterium ic1379	
+Clostridium lavalense	460384
+Mycobacteria	
+Dialister invisus	218538
+Megasphaera	906
+Streptococcus mutans	1309
+Rickettsia africae	35788
+Prevotellaceae	171552
+Ruminococcus gnavus	
+Enterovirus/parechovirus	
+Treponema	157
+Atopobium vaginae	82135
+Bifidobacterium catenulatum	1686
+Aerococcus urinae	1376
+Gram-negative bacterium cl10-2b-4	245288
+Brucellaceae	118882
+Roseomonas	125216
+Atopobium parvulum	1382
+Human herpesvirus 5	
+Mycobacterium szulgai	1787
+Christensenella minuta	626937
+Peptoniphilus gorbachii	411567
+Spirochaeta parkeri (western us)	
+Lactobacillus salivarius	1624
+Alphaproteobacteria	28211
+Citrobacter farmeri	67824
+Lachnoanaerobaculum orale	979627
+Streptococcus salivarius	1304
+Trypanosoma brucei gambiense	31285
+Micromonosporaceae	28056
+Halorubrum	56688
+Mycobacterium thermoresistibile	1797
+Clostridium paraputrificum	29363
+Corynebacterium amycolatum	43765
+Corynebacterium pilosum	35756
+Butyricimonas	574697
+Gemella	1378
+Atopobium	1380
+Histoplasma capsulatum	5037
+Human parainfluenza virus 4	
+Methylotenera	359407
+Epulopiscium	2383
+Rothia mucilaginosa	43675
+Verrucomicrobiaceae	203557
+Parascardovia denticolens	78258
+Gibberella moniliformis	
+Bacterium ic1391	330059
+Prevotella nigrescens	28133
+Streptococcus oralis	1303
+Porphyromonas catoniae	41976
+Papillibacter	100175
+Prevotella bivia	28125
+Clostridium symbiosum	1512
+Bacteroidales	171549
+Dokdonella	323413
+Neisseriaceae	481
+Lactococcus	1357
+Desulfotomaculum	1562
+Pseudomonas spp	
+Sneathia sanguinegens	40543
+Prevotella melaninogenica	28132
+Dematiaceous fungi	
+Bacillus subtilis	1423
+Leptotrichia amnionii	187101
+Candida inconspicua	52247
+Staphylococcus caprae	29380
+Lcm virus	
+Terrisporobacter glycolicus	36841
+Burkholderia gladioli	28095
+Clostridium group xi	
+Erysipelotrichales	526525
+Propionibacterium	1743
+Respiratory syncytial virus	12814
+Acinetobacter lwoffii	28090
+Succinivibrio	83770
+Streptococcus cristatus	45634
+Chlamydophila psittaci	83554
+Actinomyces	1654
+Dialister micraerophilus	309120
+Bacillus	1386
+Bacillus	55087
+Blautia glucerasea	536633
+Mucor	4830
+Desulfobulbus	893
+Roseburia faecis	301302
+Scedosporium prolificans	41688
+Clostridium acetobutylicum	1488
+Megamonas funiformis	437897
+Influenza a (h1n1) virus	
+Collinsella aerofaciens	74426
+Nocardia nova	37330
+Corynebacterium durum	61592
+Cladophialophora bantiana	89940
+Moraxella nonliquefaciens	478
+Paraeggerthella	651554
+Legionella spp	
+Trichinella spiralis	6334
+Desulfurispirillum indicum	936456
+Peptostreptococcus stomatis	341694
+Bifidobacterium thermacidophilum porcinum	
+Hepatitis a virus	
+Enterococci	
+Kingella denitrificans	502
+Dorea longicatena	88431
+Enterococcus spp	
+Vibrio vulnificus	672
+Edwardsiella tarda	636
+Butyrate-producing bacterium l1-952	105833
+Corynebacterium matruchotii	43768
+Methylophilus	16
+Butyrate-producing bacterium ph07by04	340484
+Clostridium coccoides	1532
+Alloscardovia	419014
+Coxsackie a virus	
+Mogibacterium	86331
+Shuttleworthia	177971
+Eubacterium alactolyticum	113287
+Erysipelatoclostridium ramosum	1547
+Lactobacillus acidophilus	1579
+Rothia aeria	172042
+Mastodon intestinal bacterium an-22-6	51840
+Planococcaceae	186818
+Rickettsia prowazekii	782
+Human papillomavirus-6	
+Trichophyton violaceum	34388
+Rhizobium	379
+Deltaproteobacteria	28221
+Corynebacterium bovis	36808
+Alloprevotella	1283313
+Acanthamoeba	5754
+Sutterella wadsworthensis	40545
+Butyrate-producing bacterium sl6/1/1	245015
+Cupriavidus	106589
+Acanthamoeba rhysodes	32599
+Acetonema	2373
+Piv	
+Olsenella	133925
+Campylobacter concisus	199
+Aspergillus clavatus	5057
+Penicillium marneffei	37727
+Cronobacter	413496
+Echinococcus granulosus	6210
+Prevotella oralis	28134
+Anaplasma phagocytophilum	948
+Methanobrevibacter	2172
+Kaistia	166953
+Defluviitalea	1185408
+Acanthamoeba polyphaga	5757
+Enterobacter hormaechei	158836
+Coronavirus	
+Yersinia spp	
+Akkermansia muciniphila	239935
+Rikenella	28138
+Ebv	
+Corynebacterium accolens	38284
+Histoplasma	5036
+Capnocytophaga ochracea	1018
+Actinobacillus	713
+Bifidobacterium breve	1685
+Pseudarcicella	1664383
+Veillonella ratti	103892
+Ruminococcus productus	33035
+Nocardioides	1839
+Parasutterella excrementihominis	487175
+Ochrobactrum	528
+Lachnobacterium	140625
+Listeriaceae	186820
+Cetobacterium	180162
+Capnocytophaga sputigena	1019
+Adlercreutzia	447020
+Kocuria	57493
+Streptococcus suis	1307
+Solobacterium moorei	102148
+Anaeroglobus	156454
+Pasteurella canis	753
+Xanthomonadaceae	32033
+Staphylococcus aureusa	
+Serratia marcescens	615
+Yersinia pseudotuberculosis	633
+Intestinimonas	1392389
+Curvularia	5502
+Tanerella forsythia	
+Acetanaerobacterium elongatum	258515
+Mucorales	4827
+Hepatitis virus	
+Klebsiella oxytoca	571
+Cutibacterium (propionibacterium) acnes	
+Tannerella forsythia	28112
+Propionibacterium granulosum	
+Dengue virus 1	
+Dengue virus 2	
+Dengue virus 3	11069
+Dengue virus 4	11070
+Microsporum	34392
+Human adenovirus	
+Human intestinal firmicute cs26	165131
+Giardia	5740
+Giardia	2770048
+Aeromicrobium	2040
+Prevotella multisaccharivorax	310514
+Candida spp	
+Alternaria spp	
+Toxoplasma gondii	5811
+Propionibacterium spp	
+Bosea	85413
+Bosea	169215
+Escherichia coli strain o111	
+Sclerodermataceae	37466
+Varicella zoster virus	
+Mycobacterium fortuitum	1766
+Bacteroides coprocola	310298
+Scedosporium spp	
+Enterococcus sp. nbrc 107345	1114161
+Schistosoma mekongi	38744
+Pasteurellales	135625
+Bacillus flexus	86664
+Actinobacteria	201174
+Pseudobutyrivibrio	46205
+Saccharophagus	316625
+Prevotella buccae	28126
+Clostridium tetanic	
+Clostridioides difficile	1496
+Clostridium subterminale	1550
+Lactobacillales	186826
+Corynebacterium striatum	43770
+Human intestinal firmicute co2	165136
+Paenibacillus	44249
+Human intestinal firmicute co4	165133
+Human papillomavirus type 16	333760
+Mycoplana	13159
+Zika virus	64320
+Bacteriodes uniformis	
+Bifidobacterium adolescentis	1680
+Vibrio metschnikovii	28172
+Streptococcus agalactiae	1311
+Corynebacterium diphtheriae	1717
+Fusobacteria	32066
+Fusobacteria	203490
+Mycobacterium avium complex	
+Enterobacter aerogenes	548
+Moryella	437755
+Parasporobacterium	115543
+Microsporum equinum	74041
+Clostridium saccharolyticum	84030
+Acinetobacter calcoaceticus	471
+Escherichia vulneris	
+Carnobacteriaceae	186828
+Porphyromonas endodontalis	28124
+Pasteurella	745
+Terrahaemophilus	217201
+Escherichia coli strain o157:h7	
+Bacillus cereus and related spp	
+Helcococcus	31983
+Micrococcus luteus	1270
+Chaetomium	5149
+Cladosporium spp	
+Deferribacter	53572
+Clostridium spp	
+Vibrio	662
+Staphylococcus lugdunensis	28035
+Lachnospira pectinoschiza	28052
+Paragonimus westermani	34504
+Corynebacterium tuberculostearicum	38304
+Mycobacterium ulcerans	1809
+Clostridium botulinum	1491
+Corynebacterium urealyticum	43771
+Aerococcus	1375
+Alcaligenaceae	506
+Clostridium xivb	
+Ancylostoma	29169
+Candidate division tm7 single cell isolate tm7b	
+Candidate division tm7 single cell isolate tm7c	
+Actinobacillus ureae	723
+Fusobacterium necrophorum	859
+Christensenella	990721
+Group a, b, c, and g streptococci	
+Spirochaeta hermsii (western us)	
+Fusarium spp	
+Escherichia fergusonii	564
+Salmonella enterica	28901
+Lactobacillus jensenii	109790
+Shigella sonnei	624
+Paludibacter	346096
+Gemella morbillorum	29391
+Serratia odorifera	618
+Comamonadaceae	80864
+Trichophyton soudanense	69891
+Clostridium citroniae	358743
+Escherichia coli strain o157	
+Bordetella parapertussis	519
+Corynebacterium pseudotuberculosis	1719
+Ferribacter thermoautotrophicus	
+Selenomonas sputigena	69823
+Terrahaemophilus aromaticivorans	217202
+Candida orthopsilosis	273371
+Campylobacter upsaliensis	28080
+Coxiella rickettsia	
+Streptococcus agalactiae (group b streptococci)	
+Saprophytic	
+Sphingomonas changbaiensis	529705
+Eubacterium yurii	39498
+Human herpesvirus 7	
+Pneumocystis jirovecii	42068
+Paracoccus aminovorans	34004
+Staphylococcus xylosus	1288
+Bradyrhizobium	374
+Eubacterium rectale	39491
+Syntrophococcus	84036
+Firmicutes bacterium eg14	390750
+Haemophilus parainfluenzae	729
+Helicobacter pylori	210
+Morganella	581
+Morganella	90690
+Morganella	108061
+Cellulosilyticum	698776
+Eubacterium cylindroides	
+Cryptococcus gattii	37769
+Zygomycetes (rhizopus, mucor spp)	
+Weissella	46255
+Candida glabrata	5478
+Pandoraea pnomenusa	93220
+Lachnobacterium bovis	140626
+Clostridiales bacterium aht16	622666
+Aquabacterium	92793
+Heterophyes heterophyes	1849833
+Blastocystis hominisi	
+Stoquefichus massiliensis	
+Fretibacterium fastidiosum	651822
+Moraxella	475
+Mucormycetes	
+Paecilomyces	33202
+Bordetella pertussis	520
+Fusobacterium naviforme	77917
+Lactobacillus brevis	1580
+Oxalobacter	846
+Leptotrichiaceae	1129771
+Microsporum distortum	101202
+Eubacterium ventriosum	39496
+Corynebacterium ulcerans	65058
+Treponema putidum	221027
+Allisonella	209879
+Epilithonimonas	2782229
+Fonsecaea	40354
+Rickettsia typhi	785
+Peptostreptococcus micros	33033
+Neisseria flavescens	484
+Subdoligranulum	292632
+Pseudobutyrivibrio ruminis	46206
+Moraxella spp	
+Acinetobacter ursingii	108980
+Neisseria polysaccharea	489
+Trematodes	1290878
+Neisseria mucosa	488
+Neisseria oralis	1107316
+Prevotella spp	
+Caldalkalibacillus	379065
+Ralstonia	48736
+Rotavirusm	
+Clostridium innocuum	1522
+Mitsuokella	52225
+Bartonella spp	
+B. streptococci	
+Bacteroides dorei	357276
+Cyclospora	44417
+Hyphomicrobiaceae	45401
+Neisseria elongata	495
+Actinomyces massiliensis	461393
+Bergeriella	334108
+Bergeriella	758824
+Brevundimonas	41275
+P. multocida  subsp septica (cats)	
+Mycobacterium haemophilum	29311
+Streptococcus constellatus	76860
+Actinomyces israelii	1659
+Hsv (usually type 1)	
+Klebsiella rhinoscleromatis	39831
+Haceka bacteria	
+Aspergillus niger	5061
+Rous sarcoma virus	11886
+Clostridium coccoides group	
+Hpv-16	
+Hpv-18	
+Hymenochaete	139379
+Nocardia spp	
+Psychrobacter	497
+Streptococcus canis	1329
+West nile virus	11082
+Comamonas terrigena	32013
+Bacteroides uniformis	820
+Leptospira spp	
+Measles (rubeola) virus	
+Human papillomavirus-26	
+Entamoeba	5758
+Influenza virus a, b	
+Geobacillus	129337
+Rhizobiales	356
+Pseudomonas luteola	47886
+Catonella morbi	43997
+Enterococcus hirae	1354
+Trypanosoma brucei spp	
+Nitrososphaera	497726
+Nocardia	1817
+Serratia plymuthica	82996
+Eubacterium desmolans	39484
+Staphylococcus pettenkoferi	170573
+Human papillomavirus-31	
+Ruminococcus obeum	40520
+Prevotella enoeca	76123
+Human papillomavirus-33	
+Erysipelothrix	1647
+Human papillomavirus-35	
+Human papillomavirus-39	
+Abiotrophia	46123
+Helicobacter mustelae	217
+Acanthamoeba astronyxis	65658
+Elizabethkingia meningoceptica	
+Lactobacillus  crispatus	
+Bulleidia	118747
+Eubacterium hallii	39488
+Nitrosomonadaceae	206379
+Rsv	
+Aggregatibacter	416916
+Escherichia coli strain o26	
+Cyanobacteria	1117
+Achromobacter spp	
+Streptococcus anginosus (milleri) group	
+Tissierellaceae	1737406
+Geomyces	610258
+Giardia lamblia	5741
+Human papillomavirus-45	
+Isospora	56625
+Parabacteroides merdae	46503
+Bacteroides eggerthii	28111
+Lactobacillus sakei	
+Blautia luti	89014
+Salmonella spp	
+Propionibacterium acidifaciens	556499
+Anaerosporobacter	653683
+Selenomonas noxia	135083
+Syphilis	
+Kingella kingae	504
+Clostridium tertium	1559
+Coxsackie b virus	
+Influenza virus	
+Barnesiella intestinihominis	487174
+Human papillomavirus-51	
+Enterobacteriaceae bacterium	1849603
+Human papillomavirus-52	
+Human papillomavirus-53	
+Thiomicrospira crunogena	39765
+Human papillomavirus-56	
+Mumps virus	
+Human papillomavirus-58	
+Human papillomavirus-59	
+Mycobacterium terrae	1788
+Papillibacter cinnamivorans	100176
+Aerococcus viridans	1377
+Alistipes indistinctus	626932
+Thermoactinomyces	2023
+Propionimicrobium lymphophilum	33012
+Plesiomonas spp	
+Candida zeylanoides	
+Idiomarina	135575
+Eikenella	538
+Clostridium neonatale	137838
+Actinomyces naeslundii	1655
+Kingella	32257
+Pseudonocardia	1847
+Human papillomavirus-66	
+Staphylococcus haemolyticus	1283
+Human papillomavirus-68	
+Coccidioides immitis/posadasii	
+Arcanobacterium bernardiae	59561
+Alistipes finegoldii	214856
+Clostridium bolteae	208479
+Chitinophagaceae	563835
+Arsenicicoccus	267408
+Eubacterium fissicatena	290055
+Prevotella veroralis	28137
+Phyllobacterium	28100
+Bifidobacterium pseudocatenulatum	28026
+Buttiauxella	82976
+Human papillomavirus-73	
+Group b streptococci	
+Lonepinella	53416
+Bacteroides capillosus	
+Proteus rettgeri	587
+Enterococci a	
+Eubacterium limosum	1736
+Exophiala spp	
+Syntrophobacteraceae	213465
+Legionella pneumophila	446
+Trichophyton rubrum	5551
+Fusicatenibacter	1407607
+Ralstonia spp	
+Clostridium thermocellum	1515
+Exiguobacterium oxidotolerans	223958
+Cryptosporidium parvum	5807
+Human papillomavirus-82	
+Tropheryma whipplei	2039
+Achromobacter	222
+Trichophyton mentagrophytes	523103
+Spirochaeta burgdorferi(lyme disease)	
+Aspergillus flavus	5059
+Corynebacterium auris	44750
+Thauera	33057
+Spirochaeta afzelii (europe, asia)	
+Mobiluncus	2050
+Desulfosporosinus	79206
+Clostridium histolyticum	1498
+Psathyrella artemisiae	443882
+Vibrio parahaemolyticus	670
+Bacillaceae	186817
+Acidobacteria	57723
+Acidobacteria	204432
+Cardiobacterium hominis	2718
+Blautia faecis	871665
+Brucella canis	36855
+Human parainfluenza virus	
+Campylobacter fetus	196
+Rhizomucor	4838
+Streptococcus equinus	1335
+Solobacterium	123375
+Burkholderia cenocepacia	95486
+Dientamoeba fragilis	43352
+Bk polyoma virus	
+Cloacibacillus	508459
+Bacteroides finegoldii	338188
+Caulobacter	75
+Clostridium lactafifermentans	
+Blastomyces spp	
+Ammoniphilus	66862
+Ross river virus	11029
+Sediminibacterium	504481
+Clostridium spiroforme	29348
+Ehrlichia	943
+Treponema pallidum	160
+Alphavirus	11019
+Pleosporales	92860
+Rickettsia felis	42862
+Neisseria gonorrhoeae	485
+Actinomyces odontolyticus	
+Turicella otitidis	29321
+Oribacterium	265975
+Bacteroidaceae bacterium smarlab 3301643	269288
+Epidermophyton spp	
+Rathayibacter	33886
+Actinomyces spp	
+Lactobacillus plantarum	
+Ehrlichia chaffeensis	945
+Porphyromonas uenonis	281920
+Microsporum ferrugineum	77205
+Chlorobaculum	256319
+Clostridium haemolyticum	84025
+Haemophilus aegyptius	197575
+Cellulomonas hominis	156981
+Spirochaeta garinii (europe, asia)	
+Balamuthia	66526
+Clostridium aminophilum	1526
+Malassezia restricta	76775
+Streptomyces	1883
+Porphyromonas asaccharolytica	28123
+Tuberaceae	40289
+Citrobacter diversus	545
+Klebsiella ozaenae	574
+Prevotella bergensis	242750
+Shewanella algae	38313
+Pedobacter	84567
+Mycobacterium	1763
+Parvovirus (erythrovirus) b19	
+Ureaplasma parvum	134821
+Synergistes	2753
+Gemmiger	204475
+Lactobacillus vaginalis	1633
+Malassezia sympodialis	76777
+Lactobacillus bulgaricus	1585
+Atopobium rimae	1383
+Burkholderia cepacia complex	87882
+Oscillospiraceae bacterium nml 061048	473773
+Nocardia cyriacigeorgica	135487
+Dialister pneumosintes	39950
+Metagonimus yokogawai	84529
+E. histolytica	
+Dehalobacteriumformicoaceticum	
+Tyzzerella	1506577
+Pyronemataceae	110846
+Cellvibrio	10
+Granulicatella elegans	137732
+Hepatitis b virus	10407
+Aeromonas hydrophila	644
+Swine fecal bacterium sd-pec1	621359
+Vulvovaginal candidiasis	
+Eubacterium nodatum	35518
+Psychromonas	67572
+Campylobacter spp	
+Acetivibrio	35829
+Butyrate-producing bacterium ss2/1	
+Staphylococcus saccharolyticus	33028
+Rhodobacteraceae	31989
+Acanthamoeba culbertsoni	43142
+Treponema denticola	158
+Brevibacillus	55080
+Dermabacteraceae	85020
+Schlegelella	215579
+Vibrio fluvialis	676
+Delftia	80865
+Zygomycetes	
+Malassezia spp	
+Brachyspira	29521
+Kribbella	182639
+Clostridiaceae	31979
+Powassan/deer tick virus	
+Enterovirus (nonpolio)	
+Globicatella	13075
+Acinetobacter parvus	134533
+Rhodobaca	119541
+Haemophilus influenzae (nontypeable)	
+Absidia	4828
+Peptostreptococcaceae incertae sedis	200630
+Scedosporium apiospermum	563466
+Cardiobacterium	2717
+Hepatitis c virus	
+Coprococcus catus	116085
+Mageeibacillus indolicus	884684
+Paracoccus	265
+Paracoccus	249411
+Dysgonomonas	156973
+Actinomyces europaeus	66228
+Sulfuricella	935200
+Methanothermobacter	145260
+Edwardsiella	635
+Edwardsiella	132406
+Dialister propionicifaciens	308994
+Microsporum spp	
+Dioszegia	165440
+Aeromonas hydrophila and other	
+Eubacterium contortum	39482
+Staphylococcus schleiferi	1295
+Odoribacter splanchnicus	28118
+E. histolytica/dispar	
+Arthrobacter	1663
+Clostridium diffcile	
+Glomeraceae	36751
+Undibacterium	401469
+Legionella	445
+Corynebacterium spp	
+Methylobacterium	407
+Bacteroides plebeius	310297
+Fusobacterium periodonticum	860
+Clostridium aminobutyricum	33953
+Sporobacter termitidis	44749
+Baylisascaris procyonis	6259
+Rumen bacterium r-7	353157
+Rumen bacterium r-9	353158
+Histoplasma	5036
+Nocardia	1817
+Lactobacillus rogosae	706562
+Endemic dimorphic fungi	
+Dyella	231454
+Geotrichum	43987
+Acidobacteriaceae	204434
+Thermonospora curvata	
+Lautropia	47670
+Enterococcus mundtii	53346
+Hiv type 2(hiv-2)	
+Salmonella (nontyphoidal)	
+Janibacter	53457
+Streptococcus infantis	68892
+Geothrix	44675
+Bartonella elizabethae	807
+Bacteroides caccae	47678
+Penicillium brevicompactum	5074
+Streptococcus equi	1336
+Bacterium ic1214	330018
+Bacterium ba2	299078
+Actinobacillus pleuropneumoniae	715
+Mycobacterium bovis	1765
+Lactobacillus coleohominis	181675
+Clostridium sporogenes	1509
+Bifidobacterium animalis	28025
+Mycobacterium gastri	1777
+Granulicatella adiacens	46124
+Pandoraea spp	
+Zika virus	64320
+Montagnulaceae	221678
+Varibaculum	184869
+Porphyromonas somerae	322095
+Staphylococcus cohnii	29382
+Marvinbryantia	248744
+Vzv	
+Proteus spp	
+Campylobacter lari	201
+Other flamentous fungi	
+Anaerofilum	52784
+Pyrenochaeta	285810
+Sr1	
+Butyrate-producing bacterium ph07ay3	340480
+Butyrate-producing bacterium ph07ay5	340481
+Mannheimia succiniciproducens	157673
+Bacterium mb7-1	379539
+Azospirillum	191
+Lactobacillus reuteri	1598
+Pseudoramibacter alactolyticus	113287
+Capnocytophaga canimorsus	28188
+Romboutsia	1501226
+Bipolaris spp	
+Shigella spp	
+Propionibacteriaceae	31957
+Arcanobacterium pyogenes	1661
+Bacteroides salyersiae	291644
+Acidovorax	12916
+Curtobacterium	2034
+Bacteroides ureolyticus	827
+Hungatella	1649459
+Mobiluncus curtisii subsp holmesii	
+Modestobacter	88138
+Bacilli	91061
+Alloiococcus	1651
+Uncultured clostridiales ii	
+Vibrio alginolyticus	663
+Streptobacillus	34104
+Clostridiaceae bacterium sh032	498621
+Cryptococcus neoformans/gattii	
+Spirochaeta burgdorferi (us)g	
+Pandoraea apista	93218
+Bacterium ic1258	330027
+Ureaplasma urealyticum	2130
+Human parainfluenza virus 1	
+Human parainfluenza virus 2	
+Human parainfluenza virus 3	
+Cyclospora cayetanensis	88456
+Poliovirus	
+Comamonas testosteroni	285
+Vibrio mimicus	674
+Actinobacillus actinomycetemcomitans	714
+Thalassospira	168934
+Streptophyta	35493
+Paracoccidioides brasiliensis	121759
+Rabies virus	
+Lactobacillus johnsonii	33959
+Enterorhabdus	580024
+Gallibacterium	155493
+Clostridium novyi	1542
+Helicobacter felis	214
+Bacterium g100viii	287820
+Butyrate-producing bacterium l1-810	105835
+Micrococcaceae	1268
+Turicibacter	191303
+Corynebacterium efficiens	152794
+Oxalobacter formigenes	847
+Amaricoccus	56999
+Bat sapovirus	1959930
+Pseudoxanthomonas	83618
+Cryptococcus spp	
+Candida dubliniensis	42374
+Mogibacterium diversum	114527
+Nocardia otitidiscaviarum	1823
+Acidocella	50709
+Nutritionally variant streptococcus	
+Campylobacter gracilis	824
+Pasteurella spp, namely p. canis (dogs)	
+Leptotrichia wadei	157687
+Prevotella ruminicola	839
+Arthrospira	35823
+Dehalobacter	56112
+Staphylococcus aureus and mrsa	
+Ntm	
+Bacterium ic1292	330037
+Clostridiales bacterium 80/3	500389
+Clostridium methylpentosum	84026
+Bacterium ic1296	330039
+Enterovirus/parechovirusm	
+Trematosphaeria grisea	1489895
+Pseudoflavonifractor capillosus	106588
+Vampirovibrio	213484
+Propionibacterium avidum	33010
+Bacterium ye62	254752
+Bacterium ye64	254754
+Flavobacterium	237
+Rhinovirus a	147711
+Rhinovirus b	147712
+Rhinovirus c	463676
+Monilinia	38447
+Echinococcus vogeli	6213
+Actinomyces gerencseriae	52769
+Neisseria canis	493
+Bacteroides sp. cj78	188902
+Enhydrobacter aerosaccus	225324
+Clostridium tetani	1513
+Coagulase-negative staphylococci	
+Entamoeba histolytica	5759
+Coccidioides spp	
+Helicobacter rappini	95150
+Microcystis	1125
+Rumen bacterium 8/94-32	371800
+Rumen bacterium 8/94-33	
+Megamonas hypermegale	158847
+Rumen bacterium 8/94-34	
+Bacteroides xylanisolvens	371601
+??hemolytic streptococci groups a	
+??hemolytic streptococci groups b	
+??hemolytic streptococci groups c	
+??hemolytic streptococci groups g	
+Papovavirus	
+Balantidium coli	71585
+Actinomyces graevenitzii	55565
+Trichuris trichiura	36087
+Erysipelotrichia	526524
+Peptococcaceae	186807
+Vibrio spp	
+Catabacter hongkongensis	270498
+Bacillus cereus	1396
+Mycobacterium smegmatis	1772
+Pseudomonas straminea	47882
+Novosphingobium	165696
+Human coronavirus	
+Vibrio cholerae	666
+Clostridium hathewayi	154046
+Sphingobacterium	28453
+Erwinia rhapontici	55212
+Trophyrema	
+Bacterium 08.96.4	98253
+Sphingobium	165695
+Leptotrichia sp. oral clone fp036	175642
+Rhodocyclaceae	75787
+Myceligenerans	253183
+Burkholderiales bacterium smarlab 3302047	269289
+Burkholderiales bacterium smarlab 3302048	
+Coxiellaceae	118968
+Prevotella pleuritidis	407975
+Mycobacterium canetti	78331
+Acanthamoeba castellanii	5755
+Trichophyton yaoundei	81478
+Spirochaeta miyamotoi	
+Thelephoraceae	56488
+Prevotella dentalis	52227
+Malassezia furfur	55194
+Relapsing fever spirochaetae	
+Human herpesvirus 6	
+Methanosphaera	2316
+Janthinobacterium	29580
+Ascaris lumbricoides	6252
+Oxobacter	44261
+Yersinia	629
+Yersinia	444888
+Trichophyton tonsurans	34387
+Varicellovirus	10319
+Babesia	5864
+Corynebacterium coyleae	53374
+Leptolyngbya	47251
+??hemolytic streptococci	
+Shewanella	22
+Spirochaeta mazzottii (southern us)	
+Ehrlichia muris	35795
+Turicibacter sanguinis	154288
+Ehrlichia ewingi	
+Clostridiales bacterium l2-14	620860
+Flavisolibacter	398041
+Treponema amylovorum	59892
+Corynebacterium afermentans	38286
+Enterococcus casseliflavus	37734
+Candidatus phytoplasma	33926
+Dorea formicigenerans	39486
+Cutibacterium	1912216
+Megasphaera micronuciformis	187326
+Acinetobacter johnsonii	40214
+Fusarium chlamydosporum	86545
+Actinomyces viscosus	1656
+Staphylococcus pasteuri	45972
+Trypanosoma brucei rhodesiense	31286
+Kineococcus	33981
+Corynebacterium kroppenstedtii	161879
+Ascomycota	4890
+Staphylococcus saprophyticus	29385
+Avian myeloblastosis virus	11866
+Lactobacillus ruminis	1623
+Rahnella	34037
+Geotrichum spp	
+Butyrate-producing bacterium art55/1	252702
+Anaerostipes hadrus	649756
+Arcanobacterium haemolyticum	28264
+Spirochaeta spp	
+Anaerococcus tetradius	33036
+Alistipes shahii	328814
+Chloroflexi	32061
+Chloroflexi	200795
+Mucor racemosus	4841
+Asteroleplasma	2152
+Viridans streptococci	
+Clostridium oroticum	1544
+Actinomycetales	2037
+Bacteroides coprophilus	387090
+Eubacterium minutum	76124
+Clavibacter michiganensis	28447
+Aspergillus oryzae	5062
+Limnobacter	131079
+Clostridium glycolicum	
+Geminicoccus	489140
+Caulobacteriaceae	
+Mycobacterium avium intracellulare complex	
+Centipeda periodontii	82203
+Coxiella burnetii	777
+Halothiobacillus	109262
+Scedosporium boydii	5597
+Alloprevotella rava	671218
+Lasiosphaeriaceae	42302
+Human immunodefciency virus	
+Bacillus anthracis	1392
+Prevotella timonensis	386414
+Mixed aerobic/anaerobic flora	
+Gulbenkiania	397456
+Creutzfeldt-jakob disease	
+Hydrogenophilaceae	206349
+Aeribacillus	1055323
+Bartonella quintana	803
+Roseolovirus	40272
+Plesiomonas shigelloides	703
+Yersinia enterocolitica	630
+Acanthamoeba griffini	29195
+Cronobacter sakazakii	28141
+Varibaculum cambriense	184870
+Clostridium putrificum	1491
+Clostridium sordellii	1505
+Thermosipho	2420
+Thermosipho	1445919
+Moraxella lincolnii	90241
+Ralstonia mannitolilytica	105219
+Human papillomavirus-11	
+Balneimonas	186650
+Enterobacter cancerogenus	69218
+Astrovirusm	
+Clostridium cluster xviii	
+Butyrate-producing bacterium sr1/1	245019
+Butyrate-producing bacterium sr1/5	245020
+Clostridiaceae bacterium lemv63	179974
+Echinococcus multilocularis	6211
+Nesterenkonia	57494
+Collinsella intestinalis	147207
+Polio virus	
+Shigella dysenteriae	622
+Pelomonas	335058
+Mannheimia haemolytica	75985
+Clostridium scindens	29347
+Mycobacterium xenopi	1789
+Clostridiaceae bacterium bssv31	392834
+H1n1	
+Bacterium c15	364927
+Eubacteriaceae	186806
+Nocardia brasiliensis	37326
+Bacterium mpn-isolate group 19	157950
+Shigella flexneri	623
+Treponema vincentii	69710
+Trypanosoma cruzi	5693
+Hafnia	568
+Phialophora verrucosa	39412
+Jeotgalicoccus psychrophilus	157228
+Butyrate-producing bacterium l2-50	105844
+Astroviridae	39733
+Bacterium mpn-isolate group 22	157953
+Bacterium mpn-isolate group 24	157955
+Bacterium mpn-isolate group 27	157958
+Parechovirus	138954
+Adlercreutzia equolifaciens	446660
+Enteric adenovirus	
+Bacteroides sp. d20	585543
+Cloacibacterium	501783
+Dietzia maris	37915
+Borrelia burgdorferi	139
+Cryptococcus albidus	100951
+Clostridiales xiv	
+Aerococcus christensenii	87541
+Angiostrongylus	6312
+Acholeplasma	2147
+Tropheryma whipplei (whipple disease)	
+Sarcocystis	5812
+Streptococcus australis	113107
+Shuttleworthia satelles	177972
+Anaeromyxobacter	161492
+Slackia	84108
+Phascolarctobacterium faecium	33025
+Panine herpesvirus	
+Chlamydia	810
+Hepatitis e virus	
+Pseudomonadales	72274
+Anabaena	1163
+Corynebacterium glucuronolyticum	39791
+Dolosigranulum	29393
+Exophiala jeanselmei	5584
+Bacteroides pectinophilus	384638
+Butyrate-producing bacterium sm4/1	245012
+Stenotrophomas maltophila	
+Sphingopyxis flavimaris	266812
+Arcanobacterium	28263
+Haemophilus parahaemolyticus	735
+Spirochaeta burgdorferi	
+Delftia acidovorans	80866
+Microsporum audouinii	34393
+Encephalitozoon	6033
+Dechloromonas	73029
+Raoultella	160674
+Anaerobic bacteria	
+Corynebacterium minutissimum	38301
+Sporobacter	44748
+Mycobacterium microti	1806
+Blastocystis hominis	12968
+Parascardovia	196082
+Treponema lecithinolyticum	53418
+Sutterella stercoricanis	234908
+Actinomyces neuii subspecies neuii	
+Haemophilus ducreyi	730
+Corynebacterium renale	1724
+Odoribacter laneus	626933
+Yersinia pestis	632
+Erysipelotrichaceae incertae sedis	433334
+Cellulomonadaceae	85016
+Nakaseomyces	374468
+Actinobacillus equuli	718
+Human immunodeficiency virus 1	11676
+Human immunodeficiency virus 2	11709
+Mobiluncus curtisii	2051
+Ruminiclostridium	1508657
+Legionella longbeachae	450
+Pasteurella multocida	747
+Bacillus licheniformis	1402
+Ralstonia insidiosa	190721
+Serratia ficaria	61651
+Syntrophomonas	862
+Gallionella	96
+Actinomyces oris	544580
+Paraprevotella xylaniphila	454155
+Enterobacter spp	
+Mycobacterium chelonae	
+Bacterium mpn-isolate group 5	157936
+Clostridia bacterium tsw07ca7	582350
+Clostridium septicum	1504
+Gordonibacter	644652
+Leclercia	83654
+Butyrate-producing bacterium ssc/2	
+Epidermophyton	34390
+Parvovirus b19	
+Deinococcaceae	183710
+Bk virus	
+Dietzia	37914
+Pseudonocardiaceae	2070
+Dolosigranulum pigrum	29394
+Neisseria subflava	28449
+Megasphaera elsdenii	907
+Mogibacterium timidum	35519
+Saccharomyces castellii	27288
+Bovine rumen bacterium jpr13	415655
+Chlamydia	810
+Chrysosporium	40411
+Fusobacteriaceae	203492
+Human intestinal firmicute co13	165132
+Chlamydia serovars l1	
+Chlamydia serovars l2	
+Human intestinal firmicute co19	165137
+Chlamydia serovars l3	
+Symbiobacterium toebii	120580
+Sarcina	1266
+Cryptosporidiosis	
+Bordetella bronchiseptica	518
+Tessaracoccus	72763
+Verrucomicrobium	2735
+Streptobacillus moniliformis	34105
+Nocardia farcinica	37329
+Filifactor alocis	143361
+Nitrosospira	35798
+Cystofilobasidiaceae	165808
+Brucella suis	29461
+Eubacterium ruminantium	42322
+Weeksella	1013
+Legionella pneumophila serogroup 1	66976
+Legionella pneumophila serogroup 6	66981
+Inocybaceae	665596
+Balamuthia mandrillaris	66527
+Microsporidia	6029
+Alloscardovia omnicolens	419015
+Eubacterium siraeum	39492
+Staphylococcus chromogenes	46126
+Turicella	1716
+Cryptobacterium	84162
+Gluconobacter oxydans	442
+Human intestinal firmicute co35	165261
+Haemophilus quentini	123834
+Streptococci	
+Segmented filamentous bacterium	33078
+Aeromonas spp	
+Mycoplasma faucium	
+Calicivirusm (norovirus, sapovirus)	
+Hsv-2	
+Pelobacter	18
+Yellow fever virus	11089
+Phialophora	5600
+Parainfluenza	
+Propionibacterium humerusii	2559073
+Pseudomonas otitidis	319939
+Unidentified bacterium zf3	130789
+Methylotenera mobilis	359408
+Bradyrhizobiaceae	41294
+Scardovia wiggsiae	230143
+Pediococcus	1253
+Lysobacter enzymogenes	69
+Fusobacterium varium	856
+Marasmiaceae	654128
+Lachnospiraceae bacterium	1898203
+Swine manure pit bacterium ppc108	
+Candida tropicalis	5482
+Campylobacter curvus	200
+Rickettsia japonica	35790
+Rathayibacter caricis	110936
+Corynebacterium jeikeium	38289
+Aminobacterium	81466
+Anaerofustis	264995
+Streptococcus anginosus group	671232
+Lachnospiraceae bacterium a2	397290
+Trichoderma spp	
+Alistipes obesi	2585118
+Prevotella stercorea	363265
+Malasseziales incertae sedis	
+Clostridium xylanovorans	100134
+Oxalobacteraceae	75682
+Proteus penneri	102862
+Herpes b virus	
+Capnocytophaga leadbetteri	327575
+Bacillus coagulans	1398
+Brucella abortus	235
+Prevotella disiens	28130
+Fusobacteriaes	
+Paraifluenza virus	
+Tenericutes	544448
+Chlamydia serovars l2a	
+Chlamydia serovars l2b	
+Caloramator	44258
+Clostridium colinum	36835
+Alternaria brassicicola	29001
+Actinomyces turicensis	131111
+Entamoeba histolytica/ dispar	
+Enterocytozoon	27971
+Western equine	
+Eubacterium saphenum	51123
+Edaphobacter aggregans	570835
+Holdemania filiformis	61171
+Dyadobacter	120831
+Taenia solium (neurocysticercosis)	
+Lyrodus pedicellatus	457830
+Desulfobacteraceae	213119
+Prevotella jejuni	1177574
+Mycobacterium malmoense	1780
+Clostridium cellulosi	29343
+Leptosphaeria	5021
+Microorganism	
+Odoribacteraceae	1853231
+Bifidobacterium dentium	1689
+Enterocytozoon bieneusi	31281
+Piv (most often piv3)	
+Hiv type 1 (hiv-1)	
+Carnobacterium alterfunditum	28230
+Paraclostridium bifermentans	1490
+Mogibacterium neglectum	114528
+Ovine jaagziekte virus	
+Butyrate-producing bacterium m50/1	245006
+Spirochaetes	203691
+Spirochaetes	203692
+Humicoccus	53460
+Butyrate-producing bacterium p607	340471
+Spirodela	4473
+Butyrate-producing bacterium ph05yb02	340475
+Adenoviridae	10508
+Butyrate-producing bacterium ph07ay02	340478
+Desulfovibrio intestinalis	58621
+Anaerococcus lactolyticus	33032
+Ethanoligenens	253238
+Skermanella	204447
+Prevotella heparinolytica	28113
+Butyricicoccus pullicaecorum	501571
+California encephalitis virus	35305
+Mycobacterium africanum	33894
+Pneumocystis	4753
+Tacaribe complex virus	
+Clostridium beijerinckii	1520
+Rickettsia rickettsii	783
+Fluviicola	332102
+Armatimonadetes	67819
+Proteus vulgaris	585
+Bacterium b4c2-5	522595
+H3n2	
+Cryptosporidium spp	
+Oligella	90243
+Rubella virus	11041
+Treponema pallidum (syphilis)	
+Mycobacterium spp (rare)	
+Bifidobacterium infantis	1682
+Human intestinal firmicute cb47	165138
+Swine fecal bacterium rf3e-xyl1	621345
+Nonhemolytic streptococci	
+Alloiococcus otitidis	1652
+Lactobacillus delbrueckii	1584
+Influenza a (h5n1) virus	
+Butyrate-producing bacterium t2-132	105837
+Norwalk virus	11983
+Mitsuokella multacida	52226
+Nodularia sphaerocarpa	137816
+Brevibacterium	1696
+Pandoraea	93217
+Calyptogena magnifica	6591
+Acidaminobacter	65402
+Olsenella uli	133926
+Rickettsia akari	786
+Candida rugosa	5481
+Pusillimonas	305976
+Geobacter	28231
+Parainfluenza virus 1?c4	
+Human herpesvirus 2	
+Candidate division tm7 genomosp	
+Nocardia stain	
+Mycobacterium avium	1764
+Bdellovibrio	958
+Mitsuokella jalaludinii	187979
+Actinobacillus lignieresii	720
+Methylobacterium adhaesivum	333297
+Human immunodeficiency virus	12721
+Bacterium str. 31285	115998
+Clostridium lituseburense	1537
+Hsv	
+Actinomyces urogenitalis	103621
+Inquilinus spp	
+Rubrobacter	42255
+Verrucomicrobia bacterium ms-f-88	579343
+Dengue virus	12637
+Afipia	1033
+Spirochaeta mayonii (us)	
+Trabsulsiella	
+Microsporum gypseum	63402
+Ureaplasma	2129
+Alistipes ihumii	1470347
+Epidermophyton floccosum	34391
+Oribacterium sinus	237576
+Alicycliphilus	201096
+Pseudoramibacter	113286
+Leptospira	171
+Thiotrichaceae	135617
+Dematiaceous molds	
+Swine fecal bacterium fpc67	180361
+Sapporo virus	95342
+Lactobacilli	
+Sphingomonadaceae	41297
+Human herpesvirus 6a	
+Human herpesvirus 6b	
+Actinobaculum	76833
+Bacteriodes prevotella	
+Actinomyces radingae	131110
+Swine fecal bacterium fpc70	180360
+Blautia caecimuris	1796615
+Saprolegnia	4769
+Pectobacterium	122277
+Clostrdium disporicum	
+Campylobacter coli	195
+Blautia wexlerae	418240
+Haemophilus segnis	739
+Treponema parvum	138851
+Yeasts (candida/cryptococcus spp)	
+Aquicella	254245
+Entamoeba histolytica/dispar	
+Gemellales	
+Lophiostomataceae	45147
+Phascolarctobacterium succinatutens	626940
+Polyangiaceae	49
+Clostridiales bacterium a2-162	406424
+Candidatus brocadia	380240
+Lachnoanaerobaculum umeaense	617123
+Moraxella bovis	476
+Mycobacterium peregrinum	43304
+Absidia spp	
+Mycobacterium gordonae	1778
+Blautia obeum	40520
+Legionella pneumophila serogroup 2	66977
+Janthinobacterium lividum	29581
+Lactobacillus casei	1582
+Bordetella avium	521
+Listeria spp	
+Filobasidium uniguttulatum	5212
+Anoxybacillus kestanbolensis	227476
+Arthrographis	241727
+Pediococcus pentosaceus	1255
+Bartonellaceae	772
+Pyramidobacter piscolens	638849
+Atopobium minutum	1381
+Murine norovirus	357231
+Corynebacterium riegelii	156976
+Chlamydophila pneumoniae	83558
+Aspergillus	5052
+Clostridium leptum subgroup	
+Cryptosporidium	5806
+Pseudoxanthomonas mexicana	128785
+Tick-borne encephalitis virus	11084
+Hsv-1	
+Eubacterium tortuosum	39494
